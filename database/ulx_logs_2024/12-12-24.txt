@@ -1,0 +1,8 @@
+[05:05:27] New map: gm_amb_remeselnik_island
+[12:25:55] Client "elika_pmt" connected.
+[12:28:58] Client "elika_pmt" spawned in server <STEAM_0:1:884237597> (took 183 seconds).
+[12:29:51] Dropped "elika_pmt" from server<STEAM_0:1:884237597>
+[21:11:24] Client "Forost" connected.
+[21:30:20] Client "Sumrak" connected.
+[21:39:33] Client "Sumrak" spawned in server <STEAM_0:1:122646504> (took 553 seconds).
+[21:42:08] Dropped "Sumrak" from server<STEAM_0:1:122646504>

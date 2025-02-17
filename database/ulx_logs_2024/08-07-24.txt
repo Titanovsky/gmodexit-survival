@@ -1,0 +1,14 @@
+<Logging continued from "data/ulx_logs/08-06-24.txt">
+[07:16:28] Client "тигран" connected.
+[07:19:54] Client "тигран" spawned in server <STEAM_0:1:870288776> (took 206 seconds).
+[07:20:56] Dropped "тигран" from server<STEAM_0:1:870288776>
+[08:01:24] Client "topikromik442" connected.
+[08:01:58] Client "topikromik442" spawned in server <STEAM_0:0:817543675> (took 34 seconds).
+[08:02:21] Dropped "topikromik442" from server<STEAM_0:0:817543675>
+[08:36:49] Client "bsizn" connected.
+[08:48:01] Client "Retvur" connected.
+[11:39:56] Client "Yuany" connected.
+[14:39:47] Client "Torton" connected.
+[14:42:25] Client "Torton" spawned in server <STEAM_0:0:550658384> (took 158 seconds).
+[14:43:16] Dropped "Torton" from server<STEAM_0:0:550658384>
+<Logging continued in "data/ulx_logs/08-08-24.txt">

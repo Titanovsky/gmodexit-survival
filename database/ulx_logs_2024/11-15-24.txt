@@ -1,0 +1,34 @@
+[05:05:28] New map: gm_amb_remeselnik_island
+[09:43:53] Client "TheEndhuge" connected.
+[12:32:35] Client "초보자" connected.
+[12:39:30] Client "Unusual Feeling" connected.
+[12:41:27] Client "Unusual Feeling" spawned in server <STEAM_0:0:215026430> (took 117 seconds).
+[12:42:27] Unusual Feeling: /dropmoney 5000
+[12:44:04] Unusual Feeling: /drop
+[12:49:37] Unusual Feeling: /dropmoney 5000
+[12:49:46] Unusual Feeling: /drop
+[12:49:47] Unusual Feeling: /dropmoney 5000
+[12:49:54] Unusual Feeling: /dropmoney 5000
+[13:13:31] Unusual Feeling: /dropmoney 5000
+[13:14:07] Dropped "Unusual Feeling" from server<STEAM_0:0:215026430>
+[13:14:47] Client "Unusual Feeling" connected.
+[13:15:05] Client "Unusual Feeling" spawned in server <STEAM_0:0:215026430> (took 18 seconds).
+[14:37:47] Unusual Feeling: /drop
+[14:37:54] Unusual Feeling: /drop
+[14:40:55] Client "︻デҞiLlaura" connected.
+[14:44:57] Unusual Feeling was killed by npc_antlion
+[14:46:22] Unusual Feeling was killed by npc_antlion
+[14:46:59] Unusual Feeling: /dropmoney 5000
+[14:47:00] Unusual Feeling: /dropmoney 5000
+[14:47:06] Unusual Feeling: /dropmoney 5000
+[14:51:59] Unusual Feeling was killed by npc_antlion
+[14:57:45] Client "Maksim" connected.
+[15:00:12] Client "Maksim" spawned in server <STEAM_0:0:630933535> (took 147 seconds).
+[15:02:12] Dropped "Maksim" from server<STEAM_0:0:630933535>
+[15:14:26] Dropped "Unusual Feeling" from server<STEAM_0:0:215026430>
+[21:18:49] Client "Timofey1310" connected.
+[21:21:46] Client "Timofey1310" spawned in server <STEAM_0:0:799438269> (took 177 seconds).
+[21:25:15] Dropped "Timofey1310" from server<STEAM_0:0:799438269>
+[23:05:13] Client "G-Man" connected.
+[23:09:45] Client "G-Man" spawned in server <STEAM_0:1:846945938> (took 272 seconds).
+[23:14:46] Dropped "G-Man" from server<STEAM_0:1:846945938>

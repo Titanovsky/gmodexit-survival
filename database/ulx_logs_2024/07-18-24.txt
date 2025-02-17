@@ -1,0 +1,26 @@
+<Logging continued from "data/ulx_logs/07-17-24.txt">
+[05:41:32] Client "VanYa_3000" connected.
+[05:41:42] Client "VanYa_3000" connected.
+[10:45:38] Client "Кирилл" connected.
+[11:49:13] Client "дай докурю" connected.
+[11:51:54] Client "дай докурю" spawned in server <STEAM_0:1:188902518> (took 161 seconds).
+[11:53:25] Dropped "дай докурю" from server<STEAM_0:1:188902518>
+[13:57:32] Client "Mikey SuperRifle" connected.
+[14:16:33] Client "Mikey SuperRifle" spawned in server <STEAM_0:1:53240717> (took 1141 seconds).
+[14:17:58] Dropped "Mikey SuperRifle" from server<STEAM_0:1:53240717>
+[14:52:09] Client "Xx-Pavel-xX" connected.
+[15:54:00] Client "Conobinol" connected.
+[15:59:14] Client "Conobinol" spawned in server <STEAM_0:0:774643335> (took 314 seconds).
+[16:00:21] Dropped "Conobinol" from server<STEAM_0:0:774643335>
+[18:22:17] Client "b.minakov070208" connected.
+[18:24:53] Client "Denisiaman" connected.
+[18:27:21] Client "b.minakov070208" spawned in server <STEAM_0:0:797366347> (took 304 seconds).
+[18:28:36] Client "Denisiaman" connected.
+[18:32:23] Client "Denisiaman" spawned in server <STEAM_0:1:71668012> (took 227 seconds).
+[18:36:22] Denisiaman: ЛШЕ ЫЕФКЕУК
+[18:36:36] Denisiaman: kit starter
+[18:38:58] (TEAM) b.minakov070208: /menu
+[18:40:45] Denisiaman killed b.minakov070208 using tfa_rustalpha_stone_hatchet
+[18:45:01] Dropped "Denisiaman" from server<STEAM_0:1:71668012>
+[18:45:37] Dropped "b.minakov070208" from server<STEAM_0:0:797366347>
+<Logging continued in "data/ulx_logs/07-19-24.txt">

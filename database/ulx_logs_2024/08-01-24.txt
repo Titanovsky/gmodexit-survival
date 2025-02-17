@@ -1,0 +1,4 @@
+<Logging continued from "data/ulx_logs/07-30-24.txt">
+[18:40:52] Client "Emir" connected.
+[20:27:46] Client "Fi305i" connected.
+<Logging continued in "data/ulx_logs/08-02-24.txt">

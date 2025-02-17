@@ -1,0 +1,10 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[09:43:03] Client "Slugcat loner" connected.
+[09:46:25] Client "Slugcat loner" spawned in server <STEAM_0:0:179901885> (took 202 seconds).
+[09:49:39] (TEAM) Slugcat loner: /help
+[09:56:52] Dropped "Slugcat loner" from server<STEAM_0:0:179901885>
+[12:06:26] Client "Gamebite_URF.IM" connected.
+[12:45:54] Client "野生のウサギ" connected.
+[12:52:03] Client "野生のウサギ" spawned in server <STEAM_0:0:560972659> (took 369 seconds).
+[12:54:10] Dropped "野生のウサギ" from server<STEAM_0:0:560972659>
+[15:34:23] Client "erdakov_05" connected.

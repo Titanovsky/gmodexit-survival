@@ -1,0 +1,12 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[13:10:11] Client "watch_//_me" connected.
+[13:10:36] Client "watch_//_me" spawned in server <STEAM_0:0:424640367> (took 25 seconds).
+[13:10:56] Dropped "watch_//_me" from server<STEAM_0:0:424640367>
+[16:06:27] Client "_dodik_" connected.
+[16:08:54] Client "_dodik_" spawned in server <STEAM_0:1:793617641> (took 147 seconds).
+[16:11:17] Dropped "_dodik_" from server<STEAM_0:1:793617641>
+[16:41:26] Client "georgalin" connected.
+[16:44:07] Client "georgalin" spawned in server <STEAM_0:0:805182833> (took 161 seconds).
+[16:44:35] Client "STAFF2115" connected.
+[16:46:07] Dropped "georgalin" from server<STEAM_0:0:805182833>
+[20:51:33] Client "n0 m3rcY" connected.

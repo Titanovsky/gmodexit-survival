@@ -1,0 +1,19 @@
+<Logging continued from "data/ulx_logs/11-23-24.txt">
+[01:13:47] Client "pro-1" connected.
+[01:27:23] Client "pro-1" spawned in server <STEAM_0:0:636536374> (took 816 seconds).
+[01:38:35] Client "Barsik" connected.
+[01:39:35] Dropped "pro-1" from server<STEAM_0:0:636536374>
+[01:41:27] Client "Barsik" spawned in server <STEAM_0:1:545043408> (took 172 seconds).
+[01:42:08] Dropped "Barsik" from server<STEAM_0:1:545043408>
+
+
+
+[05:05:26] New map: gm_amb_remeselnik_island
+[11:28:42] Client "Ugbemugbem Osas" connected.
+[11:32:01] Client "Ugbemugbem Osas" spawned in server <STEAM_0:1:185007449> (took 199 seconds).
+[11:33:34] Dropped "Ugbemugbem Osas" from server<STEAM_0:1:185007449>
+[11:33:35] Client "Ugbemugbem Osas" connected.
+[13:54:21] Client "Baki_hanma" connected.
+[13:58:38] Client "Baki_hanma" spawned in server <STEAM_0:0:840386528> (took 257 seconds).
+[14:02:51] Dropped "Baki_hanma" from server<STEAM_0:0:840386528>
+[19:30:29] Client "Oleshka_lytik" connected.

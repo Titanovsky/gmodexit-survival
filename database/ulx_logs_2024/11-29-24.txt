@@ -1,0 +1,6 @@
+[05:05:28] New map: gm_amb_remeselnik_island
+[18:37:29] Client "Eger" connected.
+[18:46:49] Client "Eger" spawned in server <STEAM_0:1:156321944> (took 560 seconds).
+[19:01:08] Dropped "Eger" from server<STEAM_0:1:156321944>
+[19:20:34] Client "Sharingan_Saske" connected.
+[19:22:49] Client "kiborg_121" connected.

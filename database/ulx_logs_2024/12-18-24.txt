@@ -1,0 +1,5 @@
+[05:05:29] New map: gm_amb_remeselnik_island
+[13:08:39] Client "Montes" connected.
+[14:48:41] Client "Шампунь" connected.
+[14:52:35] Client "Шампунь" spawned in server <STEAM_0:0:241455649> (took 234 seconds).
+[14:53:55] Dropped "Шампунь" from server<STEAM_0:0:241455649>

@@ -1,0 +1,13 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[10:42:34] Client "Cloaker gaming" connected.
+[10:45:27] Client "Cloaker gaming" spawned in server <STEAM_0:0:877815839> (took 173 seconds).
+[10:48:34] Dropped "Cloaker gaming" from server<STEAM_0:0:877815839>
+[12:42:36] Client "₸ØÑ¥" connected.
+[22:15:43] Client "Крип" connected.
+[22:16:10] Client "пидарасина" connected.
+[22:16:29] Client "𝔼 𝕧 𝕘 𝕖 𝕟 𝕜" connected.
+[22:18:53] Client "Крип" spawned in server <STEAM_0:0:181659231> (took 190 seconds).
+[22:19:09] Крип: !menu
+[22:19:10] Крип: !menu
+[22:22:17] Крип: inv
+[22:22:39] Dropped "Крип" from server<STEAM_0:0:181659231>

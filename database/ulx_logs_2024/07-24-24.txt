@@ -1,0 +1,22 @@
+<Logging continued from "data/ulx_logs/07-23-24.txt">
+[07:51:24] Client "boy" connected.
+[11:52:06] Client "mad_meira" connected.
+[11:54:13] Client "mad_meira" spawned in server <STEAM_0:0:539286767> (took 127 seconds).
+[11:55:11] Dropped "mad_meira" from server<STEAM_0:0:539286767>
+
+
+
+[12:48:52] New map: gm_amb_remeselnik_island
+[21:01:47] Client "♛NïkmΛn:3 /A4Tech★" connected.
+[22:56:59] Client "Boomzy" connected.
+[22:57:17] Client "Boomzy" connected.
+[22:57:23] Client "loksi" connected.
+[23:00:50] Client "Boomzy" spawned in server <STEAM_0:0:57170647> (took 213 seconds).
+[23:01:12] Client "loksi" spawned in server <STEAM_0:1:711568231> (took 229 seconds).
+[23:02:00] loksi: /
+[23:02:58] loksi: /kin starter
+[23:03:55] Boomzy killed loksi using surv_axe_stone
+[23:05:27] loksi killed Boomzy using tfa_rustalpha_stone_hatchet
+[23:12:23] Boomzy killed loksi using surv_axe_stone
+[23:12:47] Dropped "loksi" from server<STEAM_0:1:711568231>
+[23:13:04] Dropped "Boomzy" from server<STEAM_0:0:57170647>

@@ -1,0 +1,7 @@
+<Logging continued from "data/ulx_logs/09-23-24.txt">
+[09:18:50] Client "ПЕЛЬМЕНЬ" connected.
+[18:23:39] Client "CHINA#1" connected.
+[22:51:57] Client "haideralameealamee" connected.
+[22:56:42] Client "haideralameealamee" spawned in server <STEAM_0:0:911270359> (took 285 seconds).
+[22:58:59] Dropped "haideralameealamee" from server<STEAM_0:0:911270359>
+<Logging continued in "data/ulx_logs/09-27-24.txt">

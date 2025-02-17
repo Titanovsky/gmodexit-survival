@@ -1,0 +1,2 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[16:34:02] Client "GASTUR" connected.

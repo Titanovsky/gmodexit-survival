@@ -1,0 +1,11 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[09:00:46] Client "LSD" connected.
+[09:05:59] Client "LSD" spawned in server <STEAM_0:1:608838966> (took 313 seconds).
+[09:06:57] Dropped "LSD" from server<STEAM_0:1:608838966>
+[10:59:59] Client "nikitasemyrazko1903" connected.
+[11:04:35] Client "nikitasemyrazko1903" spawned in server <STEAM_0:1:899755172> (took 276 seconds).
+[11:06:30] Dropped "nikitasemyrazko1903" from server<STEAM_0:1:899755172>
+[14:53:43] Client "[GG]lenya24" connected.
+[15:01:47] Client "[GG]lenya24" connected.
+[19:06:46] Client "arsenyirevin" connected.
+<Logging continued in "data/ulx_logs/12-08-24.txt">

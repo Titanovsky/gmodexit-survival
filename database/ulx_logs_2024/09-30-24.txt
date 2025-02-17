@@ -1,0 +1,8 @@
+<Logging continued from "data/ulx_logs/09-28-24.txt">
+[08:11:51] Client "гоша гипердрайв" connected.
+[08:14:21] Client "гоша гипердрайв" spawned in server <STEAM_0:1:584510382> (took 150 seconds).
+[08:15:13] Dropped "гоша гипердрайв" from server<STEAM_0:1:584510382>
+[11:02:36] Client "санс" connected.
+[11:05:19] Client "санс" spawned in server <STEAM_0:0:790298847> (took 163 seconds).
+[11:06:06] Dropped "санс" from server<STEAM_0:0:790298847>
+<Logging continued in "data/ulx_logs/10-01-24.txt">

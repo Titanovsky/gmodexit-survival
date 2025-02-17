@@ -1,0 +1,5 @@
+[05:05:27] New map: gm_amb_remeselnik_island
+[20:29:18] Client "Просто Лис" connected.
+[20:34:36] Client "Просто Лис" spawned in server <STEAM_0:1:204659303> (took 318 seconds).
+[20:39:26] Dropped "Просто Лис" from server<STEAM_0:1:204659303>
+[21:30:37] Client "nenahhov" connected.

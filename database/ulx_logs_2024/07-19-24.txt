@@ -1,0 +1,31 @@
+<Logging continued from "data/ulx_logs/07-18-24.txt">
+[02:43:37] Client "вело" connected.
+[02:48:15] Client "вело" spawned in server <STEAM_0:0:756947758> (took 278 seconds).
+[02:50:20] Dropped "вело" from server<STEAM_0:0:756947758>
+
+
+
+[07:13:48] New map: gm_amb_remeselnik_island
+[09:36:22] Client "Happaholics Real Hapka Shit" connected.
+[09:40:09] Client "Happaholics Real Hapka Shit" connected.
+[09:43:13] Client "Happaholics Real Hapka Shit" spawned in server <STEAM_0:0:536595760> (took 184 seconds).
+[09:44:39] Dropped "Happaholics Real Hapka Shit" from server<STEAM_0:0:536595760>
+[16:27:02] Client "totti" connected.
+[16:28:03] Client "totti" connected.
+[17:56:17] Client "Vovan666" connected.
+[17:58:13] Client "Vovan666" spawned in server <STEAM_0:1:9056810> (took 116 seconds).
+[18:00:08] Dropped "Vovan666" from server<STEAM_0:1:9056810>
+[18:23:44] Client "serjik2023" connected.
+[18:24:03] Client "Myrmal" connected.
+[18:26:06] Client "Myrmal" spawned in server <STEAM_0:0:45324251> (took 123 seconds).
+[18:26:15] (TEAM) Myrmal: я тут
+[18:26:22] Myrmal: где ты
+[18:26:36] (TEAM) Myrmal: я на острове
+[18:26:57] Client "serjik2023" spawned in server <STEAM_0:0:770064621> (took 193 seconds).
+[18:27:13] serjik2023: ты где
+[18:27:16] Myrmal: о я на острове
+[18:27:25] Myrmal: иди на остров
+[18:27:47] Myrmal: убей меня
+[18:28:34] Dropped "serjik2023" from server<STEAM_0:0:770064621>
+[18:28:45] Dropped "Myrmal" from server<STEAM_0:0:45324251>
+<Logging continued in "data/ulx_logs/07-20-24.txt">

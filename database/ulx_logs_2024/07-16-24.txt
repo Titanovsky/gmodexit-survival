@@ -1,0 +1,9 @@
+<Logging continued from "data/ulx_logs/07-15-24.txt">
+[06:50:15] Client "Zxc_sunrise'r" connected.
+[16:51:14] Client "МЯСНЫЕ УКОЛЫ" connected.
+[17:00:24] Client "МЯСНЫЕ УКОЛЫ" spawned in server <STEAM_0:1:501198158> (took 550 seconds).
+[17:03:52] Dropped "МЯСНЫЕ УКОЛЫ" from server<STEAM_0:1:501198158>
+[18:54:09] Client "z.migulin" connected.
+[18:57:18] Client "z.migulin" spawned in server <STEAM_0:1:888167930> (took 189 seconds).
+[18:59:45] Dropped "z.migulin" from server<STEAM_0:1:888167930>
+<Logging continued in "data/ulx_logs/07-17-24.txt">

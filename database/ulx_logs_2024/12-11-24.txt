@@ -1,0 +1,9 @@
+[05:05:27] New map: gm_amb_remeselnik_island
+[19:25:31] Client "LONELY" connected.
+[23:29:08] Client "dead/kid" connected.
+[23:32:50] Client "dead/kid" spawned in server <STEAM_0:1:533487954> (took 222 seconds).
+[23:41:33] Client "fundoky" connected.
+[23:43:46] Dropped "dead/kid" from server<STEAM_0:1:533487954>
+[23:45:42] Client "fundoky" spawned in server <STEAM_0:1:759456596> (took 249 seconds).
+[23:48:02] Dropped "fundoky" from server<STEAM_0:1:759456596>
+[23:50:46] Client "Gemehomer" connected.

@@ -1,0 +1,5 @@
+[05:05:25] New map: gm_amb_remeselnik_island
+[16:29:08] Client "nezgraba" connected.
+[16:31:26] Client "nezgraba" spawned in server <STEAM_0:1:545232313> (took 138 seconds).
+[16:33:06] Dropped "nezgraba" from server<STEAM_0:1:545232313>
+[19:26:38] Client "gpeskov514" connected.

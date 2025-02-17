@@ -1,0 +1,40 @@
+<Logging continued from "data/ulx_logs/07-05-24.txt">
+[08:14:50] Client "охрана" connected.
+[10:45:22] Client "Belkograd_IVA" connected.
+[10:58:17] Client "DIOduck" connected.
+[10:59:45] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 88 seconds).
+[11:06:40] DIOduck: /menu
+[11:06:43] DIOduck: !menu
+[11:11:59] Client "Tony Iommi" connected.
+[11:15:44] Client "Tony Iommi" spawned in server <STEAM_0:0:764689497> (took 225 seconds).
+[11:15:55] DIOduck: Дароу
+[11:20:58] Dropped "Tony Iommi" from server<STEAM_0:0:764689497>
+[11:39:11] Client "Косичка На Жопеツ" connected.
+[11:41:48] Client "Косичка На Жопеツ" spawned in server <STEAM_0:0:596711323> (took 157 seconds).
+[11:42:01] DIOduck: хто ты воин?
+[11:43:36] Dropped "Косичка На Жопеツ" from server<STEAM_0:0:596711323>
+[11:43:49] Client "valerymagomedov" connected.
+[11:46:41] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+[11:55:32] Client "TimberWolf[GBL]" connected.
+[11:58:23] Client "TimberWolf[GBL]" spawned in server <STEAM_0:0:14793418> (took 171 seconds).
+[11:59:47] Dropped "TimberWolf[GBL]" from server<STEAM_0:0:14793418>
+[12:17:45] Client "Twitch.tv/marselleclo" connected.
+[12:17:49] Client "Twitch.tv/marselleclo" connected.
+[12:19:48] Client "DIOduck" connected.
+[12:19:59] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 11 seconds).
+[12:24:18] DIOduck was killed by npc_antlion
+[13:01:33] Client "Cody" connected.
+[13:04:09] Client "Cody" spawned in server <STEAM_0:0:598926706> (took 156 seconds).
+[13:12:22] Dropped "Cody" from server<STEAM_0:0:598926706>
+[13:17:09] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+[13:59:23] Client "BARS" connected.
+[16:26:07] Client "ekzq" connected.
+[19:31:54] Client "Zozda" connected.
+[19:59:44] Client "охрана" connected.
+[20:01:47] Client "охрана" spawned in server <STEAM_0:0:14900314> (took 123 seconds).
+[20:06:03] охрана was killed by npc_antlion
+[20:11:47] Dropped "охрана" from server<STEAM_0:0:14900314>
+[23:07:32] Client "Titanovsky" connected.
+[23:08:26] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 54 seconds).
+[23:08:36] Titanovsky granted god mode upon Themself
+<Logging continued in "data/ulx_logs/07-07-24.txt">

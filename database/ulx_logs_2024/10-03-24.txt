@@ -1,0 +1,16 @@
+<Logging continued from "data/ulx_logs/10-02-24.txt">
+[12:30:31] Client "Titanovsky" connected.
+[12:32:03] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 92 seconds).
+[12:32:32] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+
+
+
+[12:38:13] New map: gm_amb_remeselnik_island
+[12:38:38] Client "Titanovsky" connected.
+[12:38:49] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 11 seconds).
+[12:40:00] Titanovsky: фвывы
+[12:40:01] Titanovsky: ыфввыф
+[12:40:05] Titanovsky: ыфвфвы
+[12:40:07] Titanovsky: ввыф
+[12:40:41] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[12:40:54] Server is shutting down/changing levels.

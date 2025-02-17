@@ -1,0 +1,4 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[15:38:45] Client "alexandery2812" connected.
+[16:29:40] Client "matveiurban14" connected.
+[16:29:44] Client "matveiurban14" connected.

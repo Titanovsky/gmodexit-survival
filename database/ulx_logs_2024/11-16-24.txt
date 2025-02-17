@@ -1,0 +1,8 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[07:16:15] Client "krutoi_gitler228" connected.
+[08:48:28] Client "Reverst" connected.
+[15:22:51] Client "Vuster_fn" connected.
+[15:26:00] Client "Vuster_fn" spawned in server <STEAM_0:1:859820508> (took 189 seconds).
+[15:30:48] Client "wertysarf" connected.
+[15:30:54] Vuster_fn: /info
+[15:33:15] Dropped "Vuster_fn" from server<STEAM_0:1:859820508>

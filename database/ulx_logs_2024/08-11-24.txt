@@ -1,0 +1,13 @@
+<Logging continued from "data/ulx_logs/08-10-24.txt">
+[02:22:38] Client "Predator" connected.
+[02:26:46] Client "Predator" spawned in server <STEAM_0:0:96110202> (took 248 seconds).
+[02:28:30] Dropped "Predator" from server<STEAM_0:0:96110202>
+[07:30:11] Client "moiseiadrian14" connected.
+[07:33:45] Client "moiseiadrian14" spawned in server <STEAM_0:1:894498382> (took 214 seconds).
+[07:35:38] Dropped "moiseiadrian14" from server<STEAM_0:1:894498382>
+[12:34:37] Client "maks 1723" connected.
+[12:37:30] Client "maks 1723" spawned in server <STEAM_0:1:54449062> (took 173 seconds).
+[12:49:31] Dropped "maks 1723" from server<STEAM_0:1:54449062>
+[18:53:33] Client "Evilz" connected.
+[19:01:50] Client "Evilz" spawned in server <STEAM_0:1:226728470> (took 497 seconds).
+[19:09:52] Dropped "Evilz" from server<STEAM_0:1:226728470>

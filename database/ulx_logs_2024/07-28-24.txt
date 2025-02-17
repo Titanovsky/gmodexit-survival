@@ -1,0 +1,32 @@
+<Logging continued from "data/ulx_logs/07-27-24.txt">
+[07:53:04] Client "?dimonchik?" connected.
+[07:56:31] Client "?dimonchik?" spawned in server <STEAM_0:0:876301468> (took 207 seconds).
+[07:58:45] (TEAM) ?dimonchik?: !content
+[08:07:22] Dropped "?dimonchik?" from server<STEAM_0:0:876301468>
+[12:38:57] Client "_AleKsaNdr_TRS" connected.
+[12:44:07] Client "Rtx4080TI" connected.
+[12:44:12] Client "_AleKsaNdr_TRS" connected.
+[12:47:22] Client "_AleKsaNdr_TRS" spawned in server <STEAM_0:1:759924421> (took 190 seconds).
+[12:48:22] Client "Rtx4080TI" spawned in server <STEAM_0:0:813020376> (took 255 seconds).
+[12:50:46] Dropped "Rtx4080TI" from server<STEAM_0:0:813020376>
+[12:51:02] Dropped "_AleKsaNdr_TRS" from server<STEAM_0:1:759924421>
+[17:01:18] Client "Obscurantism 72" connected.
+[17:28:36] Client "HIMIK" connected.
+[17:30:01] Client "xtrzee" connected.
+[18:16:29] Client "Gonchia" connected.
+[18:21:59] Client "Gonchia" spawned in server <STEAM_0:1:173389811> (took 330 seconds).
+[18:26:10] Gonchia: мдем
+[18:27:22] Gonchia: О дивный новый мир!
+[18:28:12] Gonchia: Туман войны бы
+[18:28:18] Gonchia: Слишком далеко гляжу
+[18:31:07] Gonchia: !kit starter
+[18:33:15] Gonchia: Эхь, звуки удара о дерево бы по мощнее
+[18:56:05] Client "e.a.lebedev65" connected.
+[18:59:00] Client "e.a.lebedev65" spawned in server <STEAM_0:1:529136639> (took 175 seconds).
+[19:02:52] Dropped "e.a.lebedev65" from server<STEAM_0:1:529136639>
+[19:11:20] Dropped "Gonchia" from server<STEAM_0:1:173389811>
+
+
+
+[23:20:19] New map: gm_amb_remeselnik_island
+<Logging continued in "data/ulx_logs/07-29-24.txt">

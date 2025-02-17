@@ -1,0 +1,61 @@
+<Logging continued from "data/ulx_logs/07-10-24.txt">
+[00:25:50] Client "Denis" connected.
+[00:32:16] Client "мама я любит квас" connected.
+[00:36:10] Client "мама я любит квас" spawned in server <STEAM_0:1:758988443> (took 234 seconds).
+[00:36:25] мама я любит квас: privet
+[00:37:54] Dropped "мама я любит квас" from server<STEAM_0:1:758988443>
+[01:50:52] Client "mangkanor1234567890sbshd" connected.
+[02:22:43] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[02:22:43] Dropped "Bot01" from server<BOT>
+[07:47:17] Client "Titanovsky" connected.
+[07:47:30] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 13 seconds).
+[07:47:45] Titanovsky granted god mode upon Themself
+[08:13:25] Client "suspicowl" connected.
+[08:17:52] Client "suspicowl" spawned in server <STEAM_0:0:642723764> (took 267 seconds).
+[08:18:42] Dropped "suspicowl" from server<STEAM_0:0:642723764>
+[08:32:55] Client "usyff.igor" connected.
+[08:36:07] Client "usyff.igor" spawned in server <STEAM_0:1:718140618> (took 192 seconds).
+[08:41:19] Dropped "usyff.igor" from server<STEAM_0:1:718140618>
+[09:03:18] Client "RIWITE 0_0" connected.
+[09:06:36] Client "RIWITE 0_0" spawned in server <STEAM_0:1:765426114> (took 198 seconds).
+[09:06:54] RIWITE 0_0: hi
+[09:08:08] Dropped "RIWITE 0_0" from server<STEAM_0:1:765426114>
+[09:36:47] Client "я смотрю аниме" connected.
+[10:12:53] Client "kh.charkin" connected.
+[11:18:35] Client "Max Payne" connected.
+[11:21:30] Client "Max Payne" spawned in server <STEAM_0:0:627806111> (took 175 seconds).
+[11:29:17] Dropped "Max Payne" from server<STEAM_0:0:627806111>
+[11:39:16] Client "Парень" connected.
+[11:41:36] Client "Парень" spawned in server <STEAM_0:1:81683429> (took 140 seconds).
+[11:41:51] Dropped "Парень" from server<STEAM_0:1:81683429>
+[11:52:22] Client "Daniel" connected.
+[11:55:52] Client "Daniel" spawned in server <STEAM_0:0:170117733> (took 210 seconds).
+[11:56:15] Client "seika" connected.
+[11:56:45] Client "seika" spawned in server <STEAM_0:1:550336001> (took 30 seconds).
+[11:57:03] Client "Я люблю Minecraft" connected.
+[11:57:15] Daniel suicided!
+[12:00:21] Client "Я люблю Minecraft" spawned in server <STEAM_0:1:815775130> (took 198 seconds).
+[12:01:46] Dropped "Daniel" from server<STEAM_0:0:170117733>
+[12:02:07] Client "+$eNo0+" connected.
+[12:03:25] Dropped "seika" from server<STEAM_0:1:550336001>
+[12:04:57] Dropped "Я люблю Minecraft" from server<STEAM_0:1:815775130>
+[12:07:21] Client "+$eNo0+" spawned in server <STEAM_0:0:711554006> (took 314 seconds).
+[12:17:26] Dropped "+$eNo0+" from server<STEAM_0:0:711554006>
+[12:19:03] Client "Darkssusss" connected.
+[12:22:17] Client "Darkssusss" spawned in server <STEAM_0:0:596912448> (took 194 seconds).
+[12:25:42] Dropped "Darkssusss" from server<STEAM_0:0:596912448>
+[12:31:25] Client "seika" connected.
+[13:21:50] Client "mower" connected.
+[13:31:22] Client "mower" spawned in server <STEAM_0:0:887581287> (took 572 seconds).
+[13:36:12] mower: \
+[13:38:47] (TEAM) mower: i
+[13:42:36] Dropped "mower" from server<STEAM_0:0:887581287>
+[13:45:38] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[14:01:40] Client "eLiy4hu" connected.
+[14:12:08] Client "DIOduck" connected.
+[14:12:36] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 28 seconds).
+[14:14:03] Client "adonra" connected.
+[14:16:20] Client "adonra" spawned in server <STEAM_0:1:42373184> (took 137 seconds).
+[14:17:30] (TEAM) adonra: Привет
+[14:18:40] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+[14:20:18] Dropped "adonra" from server<STEAM_0:1:42373184>

@@ -1,0 +1,5 @@
+[05:05:29] New map: gm_amb_remeselnik_island
+[06:15:22] Client "БУЛЬБА" connected.
+[06:19:47] Client "БУЛЬБА" spawned in server <STEAM_0:0:457405944> (took 265 seconds).
+[06:25:12] БУЛЬБА was killed by npc_fastzombie
+[06:30:11] Dropped "БУЛЬБА" from server<STEAM_0:0:457405944>

@@ -1,0 +1,10 @@
+<Logging continued from "data/ulx_logs/07-14-24.txt">
+[05:54:15] Client "4chetire" connected.
+[05:56:16] Client "4chetire" spawned in server <STEAM_0:0:72451859> (took 121 seconds).
+[06:03:29] Dropped "4chetire" from server<STEAM_0:0:72451859>
+[14:12:43] Client "DEXTER" connected.
+[14:14:46] Client "DEXTER" spawned in server <STEAM_0:1:230788906> (took 123 seconds).
+[14:33:32] Dropped "DEXTER" from server<STEAM_0:1:230788906>
+[15:54:10] Client "artemeyzer7" connected.
+[17:22:09] Client "король мьюинга" connected.
+<Logging continued in "data/ulx_logs/07-16-24.txt">

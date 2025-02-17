@@ -1,0 +1,47 @@
+<Logging continued from "data/ulx_logs/07-08-24.txt">
+[01:04:59] Client "paved.maksunov" connected.
+[01:08:00] Client "paved.maksunov" spawned in server <STEAM_0:1:887477433> (took 181 seconds).
+[01:34:58] Dropped "paved.maksunov" from server<STEAM_0:1:887477433>
+[02:09:09] Client "Влад гей" connected.
+[02:11:16] Client "Влад гей" spawned in server <STEAM_0:0:587657169> (took 127 seconds).
+[02:13:28] Dropped "Влад гей" from server<STEAM_0:0:587657169>
+
+
+
+[02:46:18] New map: gm_amb_remeselnik_island
+[02:47:17] Client "Titanovsky" connected.
+[02:48:04] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 47 seconds).
+[02:48:58] Titanovsky granted god mode upon Themself
+[02:54:00] (SILENT) Titanovsky ran lua: timer.Create('a', 5, 0, function() Entity(1):RunCommand('act dance') end)
+[02:55:21] (SILENT) Titanovsky ran lua: timer.Create('a', 2, 0, function() Entity(1):RunCommand('act lion') end)
+[02:55:46] (SILENT) Titanovsky ran lua: timer.Create('a', 2, 0, function() Entity(1):RunCommand('act forward') end)
+[02:56:54] Client "Капилляры" connected.
+[03:01:18] Client "Капилляры" spawned in server <STEAM_0:0:857522335> (took 264 seconds).
+[03:09:17] Капилляры: kit level
+[03:18:11] Dropped "Капилляры" from server<STEAM_0:0:857522335>
+[04:55:36] Client "Kate Anoshina" connected.
+[06:56:06] Client "jasser183" connected.
+[06:59:12] Client "jasser183" spawned in server <STEAM_0:0:227389840> (took 186 seconds).
+[07:00:48] Dropped "jasser183" from server<STEAM_0:0:227389840>
+[07:16:57] Client "ЧЕМПИОН ПО ФИДУ" connected.
+[07:18:55] Client "jasser183" connected.
+[07:19:17] Client "jasser183" spawned in server <STEAM_0:0:227389840> (took 22 seconds).
+[07:19:54] Dropped "jasser183" from server<STEAM_0:0:227389840>
+[07:19:58] Client "ЧЕМПИОН ПО ФИДУ" spawned in server <STEAM_0:0:552114062> (took 181 seconds).
+[07:23:55] Dropped "ЧЕМПИОН ПО ФИДУ" from server<STEAM_0:0:552114062>
+[07:40:49] Client "Asxas" connected.
+[07:49:35] Client "Asxas" spawned in server <STEAM_0:0:196417039> (took 526 seconds).
+[07:50:59] Client "Jeromy" connected.
+[07:52:47] Dropped "Asxas" from server<STEAM_0:0:196417039>
+[07:53:26] Client "Jeromy" spawned in server <STEAM_0:1:703125642> (took 147 seconds).
+[07:54:38] Dropped "Jeromy" from server<STEAM_0:1:703125642>
+[08:13:10] Client "я смотрю аниме" connected.
+[08:14:09] Client "ll1llk.kz" connected.
+[08:15:44] Client "я смотрю аниме" spawned in server <STEAM_0:0:850699693> (took 154 seconds).
+[08:18:22] Dropped "я смотрю аниме" from server<STEAM_0:0:850699693>
+[08:56:56] Client "Kaspersky" connected.
+[09:14:07] Client "rimo5746#CLEVERRUST" connected.
+[09:40:24] (SILENT) Titanovsky ran lua: timer.Remove('a')
+[09:40:32] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[14:38:46] Client "cycker" connected.
+<Logging continued in "data/ulx_logs/07-10-24.txt">

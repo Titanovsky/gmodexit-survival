@@ -1,0 +1,2 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[15:02:32] Client "krytoikanal13" connected.

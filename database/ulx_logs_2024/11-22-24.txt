@@ -1,0 +1,15 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[16:29:41] Client "Банифаций" connected.
+[16:32:41] Client "Банифаций" spawned in server <STEAM_0:1:713394137> (took 180 seconds).
+[16:34:22] Dropped "Банифаций" from server<STEAM_0:1:713394137>
+[17:30:08] Client "baak cil" connected.
+[17:30:20] Client "baak cil" connected.
+[17:42:27] Client "АБОБУС 52" connected.
+[20:26:35] Client "DwD138" connected.
+[20:30:04] Client "DwD138" spawned in server <STEAM_0:1:795804935> (took 209 seconds).
+[20:52:29] Dropped "DwD138" from server<STEAM_0:1:795804935>
+[21:41:49] Client "insigniaua12" connected.
+[21:43:20] Client "insigniaua12" connected.
+[23:01:24] Client "alexsoldatov405" connected.
+[23:08:36] Client "alexsoldatov405" spawned in server <STEAM_0:0:920722768> (took 432 seconds).
+[23:12:11] Dropped "alexsoldatov405" from server<STEAM_0:0:920722768>

@@ -1,0 +1,4 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[14:54:56] Client "Frarly" connected.
+[14:58:10] Client "Frarly" spawned in server <STEAM_0:1:609548603> (took 194 seconds).
+[15:01:25] Dropped "Frarly" from server<STEAM_0:1:609548603>

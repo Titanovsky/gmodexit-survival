@@ -1,0 +1,14 @@
+[05:05:29] New map: gm_amb_remeselnik_island
+[08:49:53] Client "пьяный бобыр" connected.
+[08:53:50] Client "пьяный бобыр" spawned in server <STEAM_0:0:755358109> (took 237 seconds).
+[08:58:51] Dropped "пьяный бобыр" from server<STEAM_0:0:755358109>
+[15:16:54] Client "KoreanFake" connected.
+[15:57:42] Client "IQ банана" connected.
+[16:53:14] Client "Mr.Romanich" connected.
+[16:58:31] Client "Mr.Romanich" spawned in server <STEAM_0:1:189360658> (took 317 seconds).
+[17:42:05] Dropped "Mr.Romanich" from server<STEAM_0:1:189360658>
+[20:16:33] Client "xiajsh" connected.
+[22:47:29] Client "Timoha123452rr" connected.
+[22:51:49] Client "Timoha123452rr" spawned in server <STEAM_0:1:772488670> (took 260 seconds).
+[22:57:08] Dropped "Timoha123452rr" from server<STEAM_0:1:772488670>
+[23:18:43] Client "сатана" connected.

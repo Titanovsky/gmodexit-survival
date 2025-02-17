@@ -1,0 +1,15 @@
+[Unit]
+Description=Survival
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/gmod-surv
+User=gmod-surv
+Group=gmod-surv
+ExecStart=/usr/bin/screen -DmSU survival bash /home/gmod-surv/start_survival.sh
+Restart=always
+Nice=-10
+
+[Install]
+WantedBy=multi-user.target

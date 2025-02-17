@@ -1,0 +1,7 @@
+<Logging continued from "data/ulx_logs/09-17-24.txt">
+[09:13:07] Client "Eboooshka" connected.
+[17:54:12] Client "❤️°m_entolka°❤" connected.
+[18:40:46] Client "SLIVA23K" connected.
+[18:46:17] Client "SLIVA23K" spawned in server <STEAM_0:1:862283007> (took 331 seconds).
+[18:48:49] Dropped "SLIVA23K" from server<STEAM_0:1:862283007>
+<Logging continued in "data/ulx_logs/09-19-24.txt">

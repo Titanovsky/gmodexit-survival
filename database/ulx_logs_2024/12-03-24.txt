@@ -1,0 +1,5 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[10:25:42] Client "lukasstream023" connected.
+[12:42:36] Client "lukasstream023" connected.
+[15:11:50] Client "prosto_bulba228" connected.
+<Logging continued in "data/ulx_logs/12-04-24.txt">

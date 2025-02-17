@@ -1,0 +1,12 @@
+<Logging continued from "data/ulx_logs/07-20-24.txt">
+[11:28:09] Client "WaNTeD" connected.
+[11:30:52] Client "WaNTeD" spawned in server <STEAM_0:1:156433219> (took 163 seconds).
+[11:38:55] Dropped "WaNTeD" from server<STEAM_0:1:156433219>
+[13:16:13] Client "sanipon_さにぽん" connected.
+[18:56:01] Client "pestnick85" connected.
+[18:59:08] Client "pestnick85" spawned in server <STEAM_0:1:795972276> (took 187 seconds).
+[19:07:19] Dropped "pestnick85" from server<STEAM_0:1:795972276>
+[19:31:26] Client "マドフォックス" connected.
+[19:34:05] Client "マドフォックス" spawned in server <STEAM_0:1:626548069> (took 159 seconds).
+[19:34:45] Dropped "マドフォックス" from server<STEAM_0:1:626548069>
+<Logging continued in "data/ulx_logs/07-22-24.txt">

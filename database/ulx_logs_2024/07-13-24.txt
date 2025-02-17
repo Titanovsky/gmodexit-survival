@@ -1,0 +1,17 @@
+<Logging continued from "data/ulx_logs/07-12-24.txt">
+[07:35:40] Client "CALEK" connected.
+[07:37:17] Client "CALEK" spawned in server <STEAM_0:1:815051842> (took 97 seconds).
+[07:37:28] Dropped "CALEK" from server<STEAM_0:1:815051842>
+[07:37:28] Dropped "Bot02" from server<BOT>
+[12:36:30] Client "Bot03" connected.
+[12:36:30] Client "Bot03" spawned in server <BOT> (took 128375 seconds).
+[14:01:18] Client "sivakkirill653" connected.
+[14:17:15] Client "sivakkirill653" spawned in server <STEAM_0:0:798758024> (took 957 seconds).
+[14:18:57] Client "Arbitr2" connected.
+[14:21:34] Client "Arbitr2" spawned in server <STEAM_0:1:68040767> (took 157 seconds).
+[14:29:27] Dropped "Arbitr2" from server<STEAM_0:1:68040767>
+[14:35:58] Dropped "sivakkirill653" from server<STEAM_0:0:798758024>
+[14:35:58] Dropped "Bot03" from server<BOT>
+[17:53:30] Client "andreib" connected.
+[18:34:29] Client "Rokatik" connected.
+<Logging continued in "data/ulx_logs/07-14-24.txt">

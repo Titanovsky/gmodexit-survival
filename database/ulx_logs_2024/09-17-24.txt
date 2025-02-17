@@ -1,0 +1,7 @@
+<Logging continued from "data/ulx_logs/09-16-24.txt">
+[13:45:16] Client "sera@gg" connected.
+[14:06:06] Client "Масик" connected.
+[14:10:21] Client "Масик" spawned in server <STEAM_0:0:734310518> (took 255 seconds).
+[14:15:51] Масик: kit starter
+[14:26:03] Dropped "Масик" from server<STEAM_0:0:734310518>
+<Logging continued in "data/ulx_logs/09-18-24.txt">

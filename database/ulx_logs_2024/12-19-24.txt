@@ -1,0 +1,5 @@
+[05:05:29] New map: gm_amb_remeselnik_island
+[05:06:20] Client "bomas_akk1" connected.
+[05:08:39] Client "bomas_akk1" spawned in server <STEAM_0:0:575938145> (took 139 seconds).
+[05:14:08] Dropped "bomas_akk1" from server<STEAM_0:0:575938145>
+[09:49:11] Client "Naru" connected.

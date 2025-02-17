@@ -1,0 +1,14 @@
+<Logging continued from "data/ulx_logs/10-01-24.txt">
+[08:51:48] Client "sasharakhmat.13" connected.
+[17:58:55] Client "кто я" connected.
+[18:01:37] Client "кто я" spawned in server <STEAM_0:0:459378570> (took 162 seconds).
+[18:01:54] Client "cassiopeia scripter" connected.
+[18:04:07] Client "whatnow" connected.
+[18:04:57] Client "whatnow" spawned in server <STEAM_0:0:897920465> (took 50 seconds).
+[18:08:34] Dropped "кто я" from server<STEAM_0:0:459378570>
+[18:08:37] whatnow suicided!
+[18:28:46] Dropped "whatnow" from server<STEAM_0:0:897920465>
+[20:51:31] Client "SKULL" connected.
+[20:54:14] Client "SKULL" spawned in server <STEAM_0:0:797148388> (took 163 seconds).
+[20:55:34] Dropped "SKULL" from server<STEAM_0:0:797148388>
+<Logging continued in "data/ulx_logs/10-03-24.txt">

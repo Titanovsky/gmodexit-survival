@@ -1,0 +1,40 @@
+<Logging continued from "data/ulx_logs/07-03-24.txt">
+[06:55:20] Client "Sonji" connected.
+[13:23:45] Client "Titanovsky" connected.
+[13:24:28] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 43 seconds).
+[13:26:35] Titanovsky set the hp for Themself to 1000
+[13:26:39] Titanovsky granted god mode upon Themself
+[13:32:03] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+
+
+
+[13:41:07] New map: gm_amb_remeselnik_island
+[13:41:33] Client "Titanovsky" connected.
+[13:41:54] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 21 seconds).
+[13:47:30] Titanovsky granted god mode upon Themself
+[13:56:47] Client "Gribok" connected.
+[13:58:55] Client "Gribok" spawned in server <STEAM_0:0:800998224> (took 128 seconds).
+[14:04:41] Dropped "Gribok" from server<STEAM_0:0:800998224>
+[14:54:29] Client "ne_igr0k" connected.
+[15:21:24] Client "Mr_ludik" connected.
+[15:22:36] Client "Mr_ludik" spawned in server <STEAM_0:0:587405823> (took 72 seconds).
+[15:23:07] Mr_ludik: а где акле
+[15:28:41] Dropped "Mr_ludik" from server<STEAM_0:0:587405823>
+[15:30:29] Client "N.CH.K.byshka" connected.
+[15:47:25] Client "N.CH.K.byshka" spawned in server <STEAM_0:0:635595992> (took 1016 seconds).
+[15:50:39] N.CH.K.byshka: хуйня какаято 
+[15:50:50] Dropped "N.CH.K.byshka" from server<STEAM_0:0:635595992>
+[16:55:25] Client "Obeme" connected.
+[17:29:26] Client "Карцист Ион" connected.
+[18:47:20] Client "Kastikut" connected.
+[18:49:20] Client "WhoAsked?" connected.
+[18:50:22] Client "Kastikut" spawned in server <STEAM_0:1:508883858> (took 182 seconds).
+[18:52:13] Client "WhoAsked?" spawned in server <STEAM_0:1:455801243> (took 173 seconds).
+[18:53:13] Dropped "WhoAsked?" from server<STEAM_0:1:455801243>
+[18:56:23] Dropped "Kastikut" from server<STEAM_0:1:508883858>
+[19:47:29] Client "tikovka" connected.
+[19:52:30] Client "tikovka" spawned in server <STEAM_0:1:632900483> (took 301 seconds).
+[19:53:44] tikovka: привки
+[19:55:14] Dropped "tikovka" from server<STEAM_0:1:632900483>
+[21:05:17] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+<Logging continued in "data/ulx_logs/07-05-24.txt">

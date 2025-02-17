@@ -1,0 +1,22 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[17:06:36] Client "хлеб" connected.
+[17:11:37] Client "хлеб" spawned in server <STEAM_0:1:805248994> (took 301 seconds).
+[17:12:21] хлеб: /kik starter
+[17:35:43] Client "0/7paraTop" connected.
+[17:44:09] Client "0/7paraTop" spawned in server <STEAM_0:0:445105980> (took 506 seconds).
+[17:46:31] Client "мяяяу" connected.
+[17:46:43] Dropped "0/7paraTop" from server<STEAM_0:0:445105980>
+[17:47:11] Client "8" connected.
+[17:49:34] Client "мяяяу" spawned in server <STEAM_0:1:151285463> (took 183 seconds).
+[17:51:21] Client "GeonRonfort" connected.
+[17:58:37] хлеб: //kit starter
+[17:58:47] хлеб: kit starter
+[17:59:18] хлеб: kit starter
+[18:07:14] хлеб killed мяяяу using surv_pickaxe_stone
+[18:09:13] хлеб killed мяяяу using surv_axe_stone
+[18:12:43] хлеб killed мяяяу using surv_axe_stone
+[18:14:50] Dropped "хлеб" from server<STEAM_0:1:805248994>
+[18:22:44] мяяяу was killed by npc_antlion
+[18:30:41] Dropped "мяяяу" from server<STEAM_0:1:151285463>
+[19:24:46] Client "vovanhuk1535" connected.
+[21:57:27] Client "karimeleish007" connected.

@@ -1,0 +1,504 @@
+[07:57:18] New map: gm_amb_remeselnik_island
+[08:00:08] Server is shutting down/changing levels.
+
+
+
+[08:40:52] New map: gm_amb_remeselnik_island
+[08:41:20] Client "Titanovsky" connected.
+[08:41:47] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 27 seconds).
+[08:42:35] (Console) added Titanovsky to group superadmin
+[08:46:24] Client "Bot01" connected.
+[08:46:24] Client "Bot01" spawned in server <BOT> (took 342 seconds).
+[08:52:28] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[08:52:28] Dropped "Bot01" from server<BOT>
+
+
+
+[08:59:38] New map: gm_amb_remeselnik_island
+[09:01:23] Client "Titanovsky" connected.
+[09:01:49] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 26 seconds).
+[09:05:53] Titanovsky<STEAM_0:1:95303327> spawned ragdoll models/breen.mdl
+[09:06:16] Titanovsky изменил модель Themself на models/player/larva/yellowlarva.mdl
+[09:08:18] Client "мамикс [сосал]" connected.
+[09:11:20] Client "мамикс [сосал]" spawned in server <STEAM_0:1:459363124> (took 182 seconds).
+[09:12:12] Titanovsky: фвы
+[09:13:58] мамикс [сосал] suicided!
+[09:14:26] Client "ACLAPAC" connected.
+[09:15:17] Titanovsky: /drop
+[09:15:32] Client "BastionLiberationFront LeGeNd'S" connected.
+[09:16:05] Client "ACLAPAC" spawned in server <STEAM_0:0:463056472> (took 99 seconds).
+[09:16:23] Dropped "мамикс [сосал]" from server<STEAM_0:1:459363124>
+[09:16:23] Client "мамикс [сосал]" connected.
+[09:16:49] Client "мамикс [сосал]" spawned in server <STEAM_0:1:459363124> (took 26 seconds).
+[09:19:04] Client "BastionLiberationFront LeGeNd'S" spawned in server <STEAM_0:1:635650963> (took 212 seconds).
+[09:20:06] Dropped "мамикс [сосал]" from server<STEAM_0:1:459363124>
+[09:20:29] Titanovsky granted god mode upon Themself
+[09:20:44] Client "мамикс [сосал]" connected.
+[09:21:12] BastionLiberationFront LeGeNd'S suicided!
+[09:21:13] Client "мамикс [сосал]" spawned in server <STEAM_0:1:459363124> (took 29 seconds).
+[09:21:38] мамикс [сосал]: УБЕБЕБЕБЕ
+[09:21:43] ACLAPAC: Нихуя себе
+[09:21:48] Dropped "BastionLiberationFront LeGeNd'S" from server<STEAM_0:1:635650963>
+[09:21:53] ACLAPAC: Иди сюда
+[09:21:59] ACLAPAC: Посмотри с моего ракурса
+[09:22:03] ACLAPAC: Видишь хуйню? 
+[09:22:08] мамикс [сосал]: чат размывает еще
+[09:22:58] Titanovsky teleported to ACLAPAC
+[09:23:12] ACLAPAC: А хули ты еррорка
+[09:23:16] ACLAPAC: Я же весь контенд скачал
+[09:23:36] Titanovsky изменил модель Themself на models/player/darky_m/rust/hazmat.mdl
+[09:23:58] мамикс [сосал] voted for gm_construct (1/3)
+[09:24:13] Titanovsky revoked access "ulx votemap" to group user
+[09:24:17] Titanovsky revoked access "ulx help" to group user
+[09:24:21] Client "viktus" connected.
+[09:25:55] Client "viktus" spawned in server <STEAM_0:1:547540838> (took 94 seconds).
+[09:26:25] Titanovsky<STEAM_0:1:95303327> spawned sent survival_build
+[09:26:27] Titanovsky<STEAM_0:1:95303327> spawned sent survival_build_campfire
+[09:26:34] Titanovsky teleported to viktus
+[09:26:55] Titanovsky teleported to viktus
+[09:29:26] Titanovsky<STEAM_0:1:95303327> spawned sent survival_build_rocket_space
+[09:29:28] Titanovsky<STEAM_0:1:95303327> spawned sent survival_build_rocket_space
+[09:29:53] Titanovsky<STEAM_0:1:95303327> spawned sent survival_build_rocket_space
+[09:30:02] Titanovsky: ща
+[09:30:03] мамикс [сосал] suicided!
+[09:31:25] Titanovsky teleported to ACLAPAC
+[09:33:00] Dropped "ACLAPAC" from server<STEAM_0:0:463056472>
+[09:33:00] Client "ACLAPAC" connected.
+[09:33:21] Client "ACLAPAC" spawned in server <STEAM_0:0:463056472> (took 21 seconds).
+[09:33:55] мамикс [сосал]: гОООЛ
+[09:35:23] мамикс [сосал] was killed by npc_antlion
+[09:35:39] Titanovsky: /hdu 1
+[09:37:36] Titanovsky teleported to viktus
+[09:43:01] Client "мой хозяин" connected.
+[09:46:47] Client "мой хозяин" spawned in server <STEAM_0:1:808875599> (took 226 seconds).
+[09:47:34] Titanovsky teleported to мамикс [сосал]
+[09:50:35] Dropped "мамикс [сосал]" from server<STEAM_0:1:459363124>
+[09:50:36] Client "мамикс [сосал]" connected.
+[09:51:01] Client "мамикс [сосал]" spawned in server <STEAM_0:1:459363124> (took 25 seconds).
+[09:52:15] Client "Bone boi" connected.
+[09:52:57] viktus was killed by npc_antlion
+[09:52:59] Client "Blackman175" connected.
+[09:54:40] viktus was killed by npc_antlion
+[09:54:59] Titanovsky teleported to viktus
+[09:55:00] Titanovsky teleported to viktus
+[09:55:23] Titanovsky brought viktus
+[09:55:34] мамикс [сосал]: признавайся
+[09:55:41] мамикс [сосал]: это ты ящики лутаешь и не ломаешь
+[09:55:43] мамикс [сосал]: ?
+[09:55:48] ACLAPAC: Я сюда вообще впервые щас пошел
+[09:55:56] ACLAPAC: В стране металлов фармил дерево на кибитку
+[09:55:57] мамикс [сосал]: ладно, я тебе верю
+[09:55:58] Client "Blackman175" spawned in server <STEAM_0:1:589060617> (took 179 seconds).
+[09:56:13] Titanovsky brought мамикс [сосал]
+[09:56:18] Dropped "мой хозяин" from server<STEAM_0:1:808875599>
+[09:56:22] Titanovsky returned мамикс [сосал] to their original position
+[09:56:25] Blackman175: /kiit starter
+[09:56:47] Dropped "Blackman175" from server<STEAM_0:1:589060617>
+[09:57:23] ACLAPAC killed viktus using surv_axe_stone
+[09:57:27] ACLAPAC: Пидорас
+[09:58:17] Client "奧格 #FN" connected.
+[09:59:46] viktus was killed by npc_antlion
+[10:00:08] Titanovsky brought ACLAPAC,viktus,мамикс [сосал]
+[10:00:19] Titanovsky brought viktus
+[10:00:21] ACLAPAC: Еще раз меня тронешь, я тебя не выпущу со спавна 
+[10:00:35] мамикс [сосал]: ГОООООООООООООООООООЛ
+[10:01:24] Titanovsky returned мамикс [сосал] to their original position
+[10:01:27] Titanovsky returned ACLAPAC to their original position
+[10:01:40] мамикс [сосал] was killed by npc_antlion
+[10:02:18] viktus was killed by npc_antlion
+[10:02:44] Client "somewhere_in_the_universe" connected.
+[10:03:25] Titanovsky brought viktus
+[10:03:29] Titanovsky returned viktus to their original position
+[10:03:31] Titanovsky teleported to viktus
+[10:03:37] Titanovsky set the hp for viktus to 200
+[10:03:53] Titanovsky<STEAM_0:1:95303327> spawned sent fishing_bait
+[10:03:56] Titanovsky<STEAM_0:1:95303327> spawned sent fishing_rod
+[10:04:21] Client "somewhere_in_the_universe" spawned in server <STEAM_0:1:792586961> (took 97 seconds).
+[10:04:34] Titanovsky<STEAM_0:1:95303327> spawned sent fishing_rod
+[10:06:39] viktus was killed by fishing_hook
+[10:07:21] Titanovsky выдал bait extra игроку Themself (10)
+[10:07:22] Client "Shadow comp." connected.
+[10:08:34] Titanovsky выдал fishing rod игроку Themself (10)
+[10:10:13] Client "Shadow comp." spawned in server <STEAM_0:1:161564713> (took 171 seconds).
+[10:11:18] мамикс [сосал] was killed by npc_antlion
+[10:13:41] somewhere_in_the_universe killed Shadow comp. using tfa_rustalpha_stone_hatchet
+[10:14:51] Dropped "viktus" from server<STEAM_0:1:547540838>
+[10:14:59] Client "viktus" connected.
+[10:15:18] Client "viktus" spawned in server <STEAM_0:1:547540838> (took 19 seconds).
+[10:15:31] Dropped "viktus" from server<STEAM_0:1:547540838>
+[10:16:18] Client "viktus" connected.
+[10:16:38] Client "viktus" spawned in server <STEAM_0:1:547540838> (took 20 seconds).
+[10:18:10] Shadow comp. was killed by npc_antlion
+[10:18:46] Shadow comp. suicided!
+[10:19:02] somewhere_in_the_universe was killed by npc_fastzombie
+[10:19:17] Client "Pekaru" connected.
+[10:19:59] Dropped "Shadow comp." from server<STEAM_0:1:161564713>
+[10:20:08] somewhere_in_the_universe killed viktus using tfa_rustalpha_stone_hatchet
+[10:20:28] Client "Shadow comp." connected.
+[10:21:26] Dropped "somewhere_in_the_universe" from server<STEAM_0:1:792586961>
+[10:21:26] Client "Shadow comp." spawned in server <STEAM_0:1:161564713> (took 58 seconds).
+[10:21:28] Dropped "ACLAPAC" from server<STEAM_0:0:463056472>
+[10:21:49] Client "somewhere_in_the_universe" connected.
+[10:22:06] Client "somewhere_in_the_universe" spawned in server <STEAM_0:1:792586961> (took 17 seconds).
+[10:22:17] Client "ACLAPAC" connected.
+[10:22:48] Client "ACLAPAC" spawned in server <STEAM_0:0:463056472> (took 31 seconds).
+[10:24:22] Shadow comp. was killed by npc_fastzombie
+[10:24:24] мамикс [сосал]: []psdf[pp[dsaf
+[10:26:42] ACLAPAC: Зашло чудище в гс
+[10:26:51] ACLAPAC: Хз
+[10:26:55] ACLAPAC: Сидит дальше в варфе и выебывается
+[10:27:10] ACLAPAC: Какие?
+[10:27:19] ACLAPAC: Перезапусти дс
+[10:28:45] ACLAPAC: Убил в ответ?
+[10:29:12] ACLAPAC: Я его убил
+[10:29:15] ACLAPAC: Он меня нет
+[10:29:21] ACLAPAC: Я Антирад
+[10:29:43] ACLAPAC: Бери
+[10:30:04] ACLAPAC: Ну полутаемся
+[10:32:49] Dropped "somewhere_in_the_universe" from server<STEAM_0:1:792586961>
+[10:33:10] мамикс [сосал] was killed by npc_antlion
+[10:33:28] Client "somewhere_in_the_universe" connected.
+[10:33:40] ACLAPAC: Беги даун
+[10:33:45] Client "somewhere_in_the_universe" spawned in server <STEAM_0:1:792586961> (took 17 seconds).
+[10:33:54] ACLAPAC: НЕт
+[10:34:00] Titanovsky brought somewhere_in_the_universe
+[10:34:06] Dropped "мамикс [сосал]" from server<STEAM_0:1:459363124>
+[10:34:10] Titanovsky returned somewhere_in_the_universe to their original position
+[10:36:36] ACLAPAC: Оружие?
+[10:36:39] ACLAPAC: С зажми если че
+[10:36:50] ACLAPAC: Я пока перезайду
+[10:36:54] ACLAPAC: Дак у меня есть
+[10:36:57] ACLAPAC: Медные инструменты
+[10:37:00] ACLAPAC: Я ща перезайду в гаррис
+[10:37:04] Dropped "ACLAPAC" from server<STEAM_0:0:463056472>
+[10:37:45] Client "ACLAPAC" connected.
+[10:38:15] Client "ACLAPAC" spawned in server <STEAM_0:0:463056472> (took 30 seconds).
+[10:42:51] Client "PabwlHDndNzlIEVY" connected.
+[10:44:22] Client "TAPOK69" connected.
+[10:45:51] Client "TAPOK69" spawned in server <STEAM_0:1:124662869> (took 89 seconds).
+[10:47:40] Client "PabwlHDndNzlIEVY" spawned in server <STEAM_0:0:510485001> (took 289 seconds).
+[10:55:05] Dropped "TAPOK69" from server<STEAM_0:1:124662869>
+[10:55:08] Client "TAPOK69" connected.
+[10:55:41] Client "TAPOK69" spawned in server <STEAM_0:1:124662869> (took 33 seconds).
+[10:56:02] ACLAPAC suicided!
+[10:56:02] Dropped "PabwlHDndNzlIEVY" from server<STEAM_0:0:510485001>
+[10:57:51] Client "Totaled6" connected.
+[10:59:16] somewhere_in_the_universe: inv
+[11:00:12] Client "Yan Devaux" connected.
+[11:02:50] Client "Yan Devaux" spawned in server <STEAM_0:0:591444123> (took 158 seconds).
+[11:06:13] Dropped "Yan Devaux" from server<STEAM_0:0:591444123>
+[11:18:58] Client "мамикс [сосал]" connected.
+[11:19:27] Client "мамикс [сосал]" spawned in server <STEAM_0:1:459363124> (took 29 seconds).
+[11:20:11] somewhere_in_the_universe killed мамикс [сосал] using tfa_rustalpha_stone_hatchet
+[11:20:29] Titanovsky teleported to somewhere_in_the_universe
+[11:20:34] Dropped "мамикс [сосал]" from server<STEAM_0:1:459363124>
+[11:20:34] Client "мамикс [сосал]" connected.
+[11:21:00] Client "мамикс [сосал]" spawned in server <STEAM_0:1:459363124> (took 26 seconds).
+[11:25:06] мамикс [сосал] killed somewhere_in_the_universe using tfa_rustalpha_stone_hatchet
+[11:29:31] ACLAPAC killed somewhere_in_the_universe using surv_pickaxe_iron
+[11:30:41] Client "p@raliZ0Vanui" connected.
+[11:31:15] ACLAPAC killed Shadow comp. using surv_pickaxe_iron
+[11:33:12] Client "(Smail)" connected.
+[11:33:30] мамикс [сосал] to Titanovsky: message
+[11:33:45] Shadow comp. killed somewhere_in_the_universe using tfa_rustalpha_stone_hatchet
+[11:34:07] Client "p@raliZ0Vanui" spawned in server <STEAM_0:0:92550409> (took 206 seconds).
+[11:34:22] Dropped "somewhere_in_the_universe" from server<STEAM_0:1:792586961>
+[11:34:33] Client "somewhere_in_the_universe" connected.
+[11:34:46] Client "somewhere_in_the_universe" spawned in server <STEAM_0:1:792586961> (took 13 seconds).
+[11:35:16] somewhere_in_the_universe killed p@raliZ0Vanui using tfa_rustalpha_stone_hatchet
+[11:36:06] Client "(Smail)" spawned in server <STEAM_0:1:703465849> (took 174 seconds).
+[11:36:54] viktus killed somewhere_in_the_universe using tfa_rustalpha_stone_hatchet
+[11:37:47] TAPOK69 killed viktus using surv_pickaxe_copper
+[11:38:33] p@raliZ0Vanui killed somewhere_in_the_universe using surv_pickaxe_stone
+[11:38:56] p@raliZ0Vanui killed (Smail) using surv_pickaxe_stone
+[11:39:31] Client "Яна_цист" connected.
+[11:39:39] Client "ilikepie_91" connected.
+[11:39:52] p@raliZ0Vanui killed somewhere_in_the_universe using surv_pickaxe_stone
+[11:41:20] TAPOK69 killed (Smail) using surv_pickaxe_copper
+[11:42:21] Dropped "p@raliZ0Vanui" from server<STEAM_0:0:92550409>
+[11:42:30] Client "ilikepie_91" spawned in server <STEAM_0:1:61212598> (took 171 seconds).
+[11:42:44] Client "Dregid" connected.
+[11:44:04] Client "Dregid" spawned in server <STEAM_0:1:102289453> (took 80 seconds).
+[11:44:16] Dropped "ilikepie_91" from server<STEAM_0:1:61212598>
+[11:44:49] Dregid: arter
+[11:45:16] TAPOK69 suicided!
+[11:45:28] мамикс [сосал] killed somewhere_in_the_universe using surv_axe_stone
+[11:45:55] Dropped "TAPOK69" from server<STEAM_0:1:124662869>
+[11:45:55] Client "TAPOK69" connected.
+[11:46:11] Client "TAPOK69" spawned in server <STEAM_0:1:124662869> (took 16 seconds).
+[11:47:09] Client "Витя 228 (другой ак" connected.
+[11:47:31] Dregid: /do под шлемом клон
+[11:48:24] Dropped "Dregid" from server<STEAM_0:1:102289453>
+[11:48:31] viktus killed (Smail) using tfa_rustalpha_stone_hatchet
+[11:49:18] Client "seal_23214" connected.
+[11:50:51] мамикс [сосал] killed somewhere_in_the_universe using surv_axe_stone
+[11:51:09] Client "Витя 228 (другой ак" spawned in server <STEAM_0:0:830569928> (took 240 seconds).
+[11:51:13] (Smail): inv
+[11:52:05] Dropped "мамикс [сосал]" from server<STEAM_0:1:459363124>
+[11:52:17] Client "Gray Clocker" connected.
+[11:55:32] Витя 228 (другой ак killed (Smail) using surv_axe_stone
+[11:57:58] viktus killed Витя 228 (другой ак using tfa_rustalpha_stone_hatchet
+[11:59:19] Titanovsky teleported to ACLAPAC
+[11:59:34] (Smail) killed viktus using surv_axe_stone
+[11:59:41] Titanovsky brought ACLAPAC
+[11:59:44] Titanovsky brought Shadow comp.
+[12:00:56] (Smail) killed Витя 228 (другой ак using surv_axe_stone
+[12:01:20] Client "Intim" connected.
+[12:01:36] Shadow comp. suicided!
+[12:02:09] Dropped "Витя 228 (другой ак" from server<STEAM_0:0:830569928>
+[12:02:14] Client "Витя 228 (другой ак" connected.
+[12:02:32] Client "Витя 228 (другой ак" spawned in server <STEAM_0:0:830569928> (took 18 seconds).
+[12:04:53] ACLAPAC killed somewhere_in_the_universe using surv_axe_copper
+[12:05:31] viktus killed (Smail) using surv_pickaxe_stone
+[12:07:54] Client "Intim" spawned in server <STEAM_0:1:27540067> (took 394 seconds).
+[12:09:20] Dropped "Intim" from server<STEAM_0:1:27540067>
+[12:11:14] Client "Dregid" connected.
+[12:11:20] Shadow comp. killed somewhere_in_the_universe using surv_pickaxe_iron
+[12:11:32] Client "Dregid" spawned in server <STEAM_0:1:102289453> (took 18 seconds).
+[12:12:15] Dropped "somewhere_in_the_universe" from server<STEAM_0:1:792586961>
+[12:12:17] Client "somewhere_in_the_universe" connected.
+[12:12:30] Client "somewhere_in_the_universe" spawned in server <STEAM_0:1:792586961> (took 13 seconds).
+[12:12:36] Витя 228 (другой ак: пр
+[12:12:48] Витя 228 (другой ак killed Dregid using tfa_rustalpha_stone_hatchet
+[12:17:04] (Smail) killed Витя 228 (другой ак using surv_axe_stone
+[12:18:48] Dregid killed Витя 228 (другой ак using tfa_rustalpha_stone_hatchet
+[12:19:19] Dropped "Витя 228 (другой ак" from server<STEAM_0:0:830569928>
+[12:20:14] somewhere_in_the_universe killed Shadow comp. using surv_pickaxe_stone
+[12:20:20] viktus killed somewhere_in_the_universe using surv_pickaxe_copper
+[12:20:31] Dropped "(Smail)" from server<STEAM_0:1:703465849>
+[12:20:53] somewhere_in_the_universe killed Shadow comp. using tfa_rustalpha_stone_hatchet
+[12:21:18] Dropped "Shadow comp." from server<STEAM_0:1:161564713>
+[12:21:51] Client "Shadow comp." connected.
+[12:22:16] Client "Shadow comp." connected.
+[12:23:33] Client "Shadow comp." spawned in server <STEAM_0:1:161564713> (took 77 seconds).
+[12:25:00] Titanovsky teleported to Dregid
+[12:25:14] Titanovsky: в дискорд позвоню?
+[12:25:16] Titanovsky: поговорим часик
+[12:25:18] Dropped "somewhere_in_the_universe" from server<STEAM_0:1:792586961>
+[12:25:25] Titanovsky: ну где-т оминут 20
+[12:25:35] Client "мамикс [сосал]" connected.
+[12:26:08] Client "мамикс [сосал]" spawned in server <STEAM_0:1:459363124> (took 33 seconds).
+[12:26:38] Titanovsky started a vote (У вас проблемы с чатом были?)
+[12:26:40] Titanovsky voted for: -
+[12:26:42] Dregid voted for: +
+[12:26:44] TAPOK69 voted for: -
+[12:26:54] viktus: -
+[12:26:57] мамикс [сосал] voted for: -
+[12:26:58] Vote results: Option '-' won. (3/7)
+[12:26:58] viktus: 2
+[12:27:59] Titanovsky teleported to мамикс [сосал]
+[12:28:04] мамикс [сосал]: а где
+[12:28:08] мамикс [сосал]: что
+[12:28:11] мамикс [сосал]: а бляджь
+[12:28:12] мамикс [сосал]: аывхззхаыв
+[12:28:12] Titanovsky: Внизу тоже нет
+[12:28:14] мамикс [сосал]: сорямба
+[12:28:16] мамикс [сосал]: он перлетел
+[12:37:45] Client "BOT_Jack30" connected.
+[12:39:49] viktus was killed by npc_fastzombie
+[12:40:51] Client "BOT_Jack30" spawned in server <STEAM_0:0:884071203> (took 186 seconds).
+[12:42:38] Dropped "BOT_Jack30" from server<STEAM_0:0:884071203>
+[12:43:40] Titanovsky выдал orange игроку Dregid (10)
+[12:44:22] Titanovsky выдал medkit игроку Dregid (10)
+[12:52:15] Client "emanpost" connected.
+[12:52:42] Client "Helgi" connected.
+[12:55:52] Client "Helgi" spawned in server <STEAM_0:0:716339183> (took 190 seconds).
+[12:57:02] Dropped "Helgi" from server<STEAM_0:0:716339183>
+[12:57:04] Client "emanpost" spawned in server <STEAM_0:0:535881274> (took 289 seconds).
+[12:58:16] Dropped "viktus" from server<STEAM_0:1:547540838>
+[12:59:33] Titanovsky выдал antirad игроку Dregid (10)
+[12:59:37] Client "СЕРЖ" connected.
+[13:00:19] Titanovsky<STEAM_0:1:95303327> spawned NPC npc_monk
+[13:00:56] Titanovsky<STEAM_0:1:95303327> spawned NPC npc_pigeon
+[13:02:04] Client "B0T_Jack29" connected.
+[13:02:30] Client "B0T_Jack29" spawned in server <STEAM_0:1:586227913> (took 26 seconds).
+[13:05:46] Titanovsky добавил уровень игроку Dregid на 3
+[13:11:12] Titanovsky выдал iron ore игроку Dregid (5)
+[13:11:18] Titanovsky выдал coal игроку Dregid (15)
+[13:11:30] Titanovsky выдал coal игроку Dregid (200)
+[13:11:49] Dropped "B0T_Jack29" from server<STEAM_0:1:586227913>
+[13:13:08] Titanovsky выдал apple игроку Dregid (20)
+[13:14:36] Client "KKnD" connected.
+[13:14:43] Titanovsky started a vote (Насколько банить Сэда?)
+[13:14:49] мамикс [сосал] voted for: 0
+[13:14:49] Titanovsky voted for: 0
+[13:14:50] TAPOK69 voted for: 0
+[13:14:54] *** Dregid снял шлем
+[13:14:57] Dregid voted for: 5
+[13:14:57] Client "Arcandiec" connected.
+[13:15:03] Vote results: Option '0' won. (3/7)
+[13:15:50] Titanovsky выдал medkit игроку ACLAPAC (2)
+[13:16:00] Dropped "Dregid" from server<STEAM_0:1:102289453>
+[13:17:12] *** мамикс [сосал] делает намаз
+[13:17:43] Client "Arcandiec" spawned in server <STEAM_0:0:42023985> (took 166 seconds).
+[13:20:50] Dropped "Arcandiec" from server<STEAM_0:0:42023985>
+[13:21:34] мамикс [сосал] suicided!
+[13:22:06] ACLAPAC: Ты тут жить будешь дальше?
+[13:22:13] ACLAPAC: Если да, то я потом скажу пароль от кейпада
+[13:22:19] ACLAPAC: Чтобы ты мог сюда заходить - выходить
+[13:25:03] Client "DEFOXE" connected.
+[13:25:18] Client "little hedgehog gringo" connected.
+[13:27:38] Client "KKnD" spawned in server <STEAM_0:1:56010827> (took 782 seconds).
+[13:29:29] Dropped "KKnD" from server<STEAM_0:1:56010827>
+[13:29:54] Client "little hedgehog gringo" spawned in server <STEAM_0:1:848819077> (took 276 seconds).
+[13:30:51] Client "KKnD" connected.
+[13:31:15] Client "KKnD" spawned in server <STEAM_0:1:56010827> (took 24 seconds).
+[13:31:29] Dropped "KKnD" from server<STEAM_0:1:56010827>
+[13:31:57] Client "KKnD" connected.
+[13:32:13] Dropped "little hedgehog gringo" from server<STEAM_0:1:848819077>
+[13:32:23] Client "KKnD" spawned in server <STEAM_0:1:56010827> (took 26 seconds).
+[13:32:53] KKnD: K.
+[13:40:28] KKnD: /name Catik
+[13:43:38] мамикс [сосал]: *trigger*
+[13:43:38] мамикс [сосал]: *trigger*
+[13:48:56] KKnD: бля скучно
+[13:49:38] KKnD: ц
+[13:50:50] KKnD was killed by modulus_hoverboard
+[13:52:35] KKnD: привет
+[13:52:36] мамикс [сосал]: q
+[13:52:40] KKnD: как хату блять седлать
+[13:52:55] мамикс [сосал]: щас лучше тебе скрафтить инструменты по лучше
+[13:52:58] мамикс [сосал]: а то это говнище
+[13:52:59] KKnD: не ломается блять
+[13:53:02] мамикс [сосал]: ты дом 100 лет будешь деллать
+[13:53:04] Client "Pozetiv4ik" connected.
+[13:53:07] KKnD: пан
+[13:53:51] KKnD: ааа\
+[13:53:54] KKnD: эээ
+[13:54:11] KKnD: там админ не отдал машину
+[13:54:17] мамикс [сосал]: ваще свинтус согласен
+[13:54:20] KKnD: вобще 
+[13:54:27] KKnD: он меня выкинул
+[13:55:13] мамикс [сосал]: ты че творишь, негодяй
+[13:55:20] мамикс [сосал]: траву мне перехуярил всю
+[13:55:24] KKnD: она сама
+[13:55:31] KKnD: исчезла
+[13:55:34] мамикс [сосал]: ладно, поверю
+[13:55:41] мамикс [сосал]: дверь не выламывай
+[13:55:46] KKnD: это стена
+[13:55:54] KKnD: я хочу домой
+[13:56:05] KKnD: //геймплей тут так себе 
+[13:56:30] Dropped "emanpost" from server<STEAM_0:0:535881274>
+[13:56:44] мамикс [сосал]: Дорабатываться будет
+[13:57:02] KKnD: пусти сука налоги плати
+[13:57:08] мамикс [сосал]: какие налоги
+[13:57:11] мамикс [сосал]: я в ебаной норе живу
+[13:57:14] мамикс [сосал]: 2 на 2
+[13:57:32] KKnD: и что 2 м на 2 м уже 2к платить надо
+[13:57:39] KKnD: открывай сука
+[13:57:53] KKnD: колекторы сука
+[13:58:01] KKnD: как ник поменять
+[13:58:07] мамикс [сосал]: в стиме
+[13:58:23] KKnD: а набор на админов идет ?
+[13:58:31] KKnD: дай ган я сервер  выпелю
+[13:58:33] мамикс [сосал]: хз нет вроде
+[13:58:45] KKnD: открывай
+[13:59:09] KKnD: блять как могло прити в голову раст в гарисе сделать
+[13:59:33] мамикс [сосал]: вот так
+[14:00:28] Titanovsky kicked KKnD (/me распилил болгаркой)
+[14:00:28] Dropped "KKnD" from server<STEAM_0:1:56010827>
+[14:00:35] мамикс [сосал]: Кстати
+[14:00:44] мамикс [сосал]: если хочешь веселое времяприправождение
+[14:00:50] мамикс [сосал]: напиши в аллчат "аквапарк моча"
+[14:01:39] Client "DanielleLegenda" connected.
+[14:03:17] мамикс [сосал] to TAPOK69: оксид гей свинка и немножечко пидор
+[14:03:29] Client "DanielleLegenda" spawned in server <STEAM_0:1:755472136> (took 110 seconds).
+[14:04:32] DanielleLegenda: але где вы
+[14:06:04] DanielleLegenda: f kt ult ds
+[14:06:52] Dropped "DanielleLegenda" from server<STEAM_0:1:755472136>
+[14:08:54] ACLAPAC: Ненада
+[14:12:16] Client "AБЩХДА{FurrerSS)" connected.
+[14:14:16] Client "temkach_zxz" connected.
+[14:17:58] Client "temkach_zxz" spawned in server <STEAM_0:1:834954395> (took 222 seconds).
+[14:21:11] Titanovsky выдал toolgun игроку Themself (1)
+[14:21:38] (SILENT) Titanovsky ran lua: Entity(466):SetPos(Entity(3):GetPos())
+[14:22:47] Dropped "temkach_zxz" from server<STEAM_0:1:834954395>
+[14:27:01] TAPOK69: как снять костюм?
+[14:27:41] Dropped "TAPOK69" from server<STEAM_0:1:124662869>
+[14:27:41] Client "TAPOK69" connected.
+[14:27:58] Client "TAPOK69" spawned in server <STEAM_0:1:124662869> (took 17 seconds).
+[14:29:00] ACLAPAC: /info
+[14:30:10] Titanovsky добавил уровень игроку ACLAPAC на 1
+[14:30:34] TAPOK69 suicided!
+[14:37:11] Client "simanikitin2015" connected.
+[14:38:01] Dropped "мамикс [сосал]" from server<STEAM_0:1:459363124>
+[14:39:42] Client "simanikitin2015" spawned in server <STEAM_0:1:746066445> (took 151 seconds).
+[14:39:53] simanikitin2015: dct [fq
+[14:40:01] simanikitin2015: всем хай
+[14:40:12] Client "Потные яйца Кузи" connected.
+[14:40:54] Dropped "simanikitin2015" from server<STEAM_0:1:746066445>
+[14:42:07] Client "." connected.
+[14:46:30] Client "Потные яйца Кузи" spawned in server <STEAM_0:1:105573386> (took 378 seconds).
+[14:50:59] Потные яйца Кузи: Где я нахуй
+[14:54:15] Titanovsky created group потные_яица which inherits rights from group user
+[14:54:22] Titanovsky added ACLAPAC to group потные_яица
+[14:54:33] Titanovsky added Потные яйца Кузи to group потные_яица
+[14:54:38] Titanovsky added Shadow comp. to group потные_яица
+[14:54:55] Titanovsky added TAPOK69 to group потные_яица
+[14:55:42] Client "Pyromain" connected.
+[14:57:56] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[15:01:44] TAPOK69: как порох делать?
+[15:05:36] Dropped "Потные яйца Кузи" from server<STEAM_0:1:105573386>
+[15:07:00] Dropped "ACLAPAC" from server<STEAM_0:0:463056472>
+[15:07:44] Client "ACLAPAC" connected.
+[15:08:15] Client "ACLAPAC" spawned in server <STEAM_0:0:463056472> (took 31 seconds).
+[15:14:03] Dropped "TAPOK69" from server<STEAM_0:1:124662869>
+[15:26:57] Dropped "Shadow comp." from server<STEAM_0:1:161564713>
+[15:33:19] Client "kuznetsov.0303" connected.
+[15:36:32] Client "kuznetsov.0303" spawned in server <STEAM_0:1:547422153> (took 193 seconds).
+[15:37:20] Client "Витя 228 (другой ак" connected.
+[15:37:44] Client "JevIs" connected.
+[15:38:47] Client "Витя 228 (другой ак" spawned in server <STEAM_0:0:830569928> (took 87 seconds).
+[15:39:49] Витя 228 (другой ак killed kuznetsov.0303 using tfa_rustalpha_stone_hatchet
+[15:40:43] Dropped "Витя 228 (другой ак" from server<STEAM_0:0:830569928>
+[15:42:41] kuznetsov.0303: /
+[15:43:24] Dropped "kuznetsov.0303" from server<STEAM_0:1:547422153>
+[15:44:56] Client "JevIs" spawned in server <STEAM_0:1:635109889> (took 432 seconds).
+[15:47:52] JevIs: fkj
+[15:48:00] JevIs: ghbztv
+[15:49:58] JevIs was killed by npc_antlion
+[15:52:09] Dropped "JevIs" from server<STEAM_0:1:635109889>
+[16:01:39] Dropped "ACLAPAC" from server<STEAM_0:0:463056472>
+[16:35:39] Client "Аластор" connected.
+[18:09:40] Client "Titanovsky" connected.
+[18:10:29] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 49 seconds).
+
+
+
+[18:25:23] New map: gm_amb_remeselnik_island
+
+
+
+[18:33:07] New map: gm_amb_remeselnik_island
+[18:33:42] Client "Titanovsky" connected.
+[18:34:04] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 22 seconds).
+[18:36:34] Titanovsky granted god mode upon Themself
+[18:36:51] (SILENT) Titanovsky ran lua: tmp_var=Entity(1):GetMaxHunger()
+[18:36:55] (SILENT) Titanovsky ran lua: tmp_var=Entity(1):GetHungerMax()
+[18:55:30] Client "simple" connected.
+[19:19:56] Client "перчёный" connected.
+[19:22:39] Client "перчёный" spawned in server <STEAM_0:1:643311959> (took 163 seconds).
+[19:24:32] Dropped "перчёный" from server<STEAM_0:1:643311959>
+[19:33:22] Client "msmr" connected.
+[19:36:46] Client "msmr" spawned in server <STEAM_0:1:504331470> (took 204 seconds).
+[19:37:21] msmr: ку
+[19:38:17] Client "Lpksey" connected.
+[19:41:06] Titanovsky teleported to msmr
+[19:45:01] Dropped "msmr" from server<STEAM_0:1:504331470>
+[19:51:52] Client "StinkySofa63" connected.
+[19:54:32] Client "StinkySofa63" spawned in server <STEAM_0:0:759247178> (took 160 seconds).
+[19:56:01] Dropped "StinkySofa63" from server<STEAM_0:0:759247178>
+[19:56:43] Client "jon hamm" connected.
+[19:59:14] Client "msmr" connected.
+[19:59:34] Client "msmr" spawned in server <STEAM_0:1:504331470> (took 20 seconds).
+[20:01:08] Dropped "msmr" from server<STEAM_0:1:504331470>
+[21:26:29] Titanovsky: выф
+[21:48:28] Titanovsky изменил сытость игроку Themself на 600
+[21:48:30] Titanovsky изменил сытость игроку Themself на 10000
+[21:48:32] Titanovsky изменил сытость игроку Themself на 10000000
+[21:48:34] Titanovsky изменил сытость игроку Themself на 500
+[22:08:00] Client "Empt1" connected.
+[22:46:00] Titanovsky изменил жажду игроку Themself на 500
+[22:46:03] Titanovsky изменил жажду игроку Themself на 300
+[23:00:18] Titanovsky дал XP игроку Themself на 1000
+<Logging continued in "data/ulx_logs/07-01-24.txt">

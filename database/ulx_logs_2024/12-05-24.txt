@@ -1,0 +1,12 @@
+<Logging continued from "data/ulx_logs/12-04-24.txt">
+[04:59:50] Client "V1rus#MYRust" connected.
+[05:03:30] Client "V1rus#MYRust" spawned in server <STEAM_0:0:609162499> (took 220 seconds).
+
+
+
+[05:05:27] New map: gm_amb_remeselnik_island
+[11:11:00] Client "lukasstream023" connected.
+[16:57:24] Client "beliavfedor" connected.
+[17:00:34] Client "beliavfedor" spawned in server <STEAM_0:1:41659573> (took 190 seconds).
+[17:01:52] Dropped "beliavfedor" from server<STEAM_0:1:41659573>
+[17:10:44] Client "Roy@L4ik" connected.

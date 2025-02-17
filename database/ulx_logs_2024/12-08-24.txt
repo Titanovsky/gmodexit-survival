@@ -1,0 +1,16 @@
+<Logging continued from "data/ulx_logs/12-07-24.txt">
+[01:42:04] Client "Vasilisk" connected.
+
+
+
+[05:05:26] New map: gm_amb_remeselnik_island
+[05:11:27] Client "Avrelian" connected.
+[05:15:29] Client "Avrelian" spawned in server <STEAM_0:1:97979543> (took 242 seconds).
+[05:18:03] Avrelian: /help
+[05:18:45] Dropped "Avrelian" from server<STEAM_0:1:97979543>
+[13:29:39] Client "Hellinberg" connected.
+[13:35:08] Client "Hellinberg" spawned in server <STEAM_0:0:27824887> (took 329 seconds).
+[13:42:51] Dropped "Hellinberg" from server<STEAM_0:0:27824887>
+[15:06:29] Client "kelmerzz(1337)" connected.
+[15:12:15] Client "kelmerzz(1337)" spawned in server <STEAM_0:0:701013874> (took 346 seconds).
+[15:14:46] Dropped "kelmerzz(1337)" from server<STEAM_0:0:701013874>

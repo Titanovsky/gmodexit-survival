@@ -1,0 +1,9 @@
+<Logging continued from "data/ulx_logs/09-19-24.txt">
+[10:55:29] Client "Ruka_Snegovika" connected.
+[10:58:06] Client "Ruka_Snegovika" spawned in server <STEAM_0:0:505185638> (took 157 seconds).
+[10:58:47] Dropped "Ruka_Snegovika" from server<STEAM_0:0:505185638>
+[15:47:31] Client "YaMari" connected.
+[17:35:45] Client "Vertik" connected.
+[17:40:00] Client "Vertik" spawned in server <STEAM_0:1:904181292> (took 255 seconds).
+[17:48:53] Dropped "Vertik" from server<STEAM_0:1:904181292>
+<Logging continued in "data/ulx_logs/09-22-24.txt">

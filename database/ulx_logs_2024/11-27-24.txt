@@ -1,0 +1,13 @@
+[05:05:28] New map: gm_amb_remeselnik_island
+[10:51:50] Client "dipix" connected.
+[10:53:49] Client "dipix" spawned in server <STEAM_0:0:819679782> (took 119 seconds).
+[10:55:37] dipix: е
+[10:57:01] dipix was killed by npc_fastzombie
+[10:59:38] Dropped "dipix" from server<STEAM_0:0:819679782>
+[11:12:39] Client "StaXiao666 ى" connected.
+[11:20:33] Client "Виталь Мефeдрон" connected.
+[11:43:02] Client "StaXiao666 ى" spawned in server <STEAM_0:1:156686432> (took 1823 seconds).
+[11:48:27] Dropped "StaXiao666 ى" from server<STEAM_0:1:156686432>
+[13:56:45] Client "georgalin" connected.
+[13:57:18] Client "georgalin" spawned in server <STEAM_0:0:805182833> (took 33 seconds).
+[13:58:22] Dropped "georgalin" from server<STEAM_0:0:805182833>

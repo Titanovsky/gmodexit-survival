@@ -1,0 +1,12 @@
+<Logging continued from "data/ulx_logs/07-28-24.txt">
+[06:42:16] Client "St44tuya" connected.
+[06:47:08] Client "St44tuya" spawned in server <STEAM_0:1:125928866> (took 292 seconds).
+[06:53:27] Dropped "St44tuya" from server<STEAM_0:1:125928866>
+[07:51:21] Client "мясник" connected.
+[07:53:36] Client "мясник" spawned in server <STEAM_0:1:783646322> (took 135 seconds).
+[07:54:48] Dropped "мясник" from server<STEAM_0:1:783646322>
+[12:17:18] Client "dimakursk1982" connected.
+[12:20:13] Client "dimakursk1982" spawned in server <STEAM_0:1:129546962> (took 175 seconds).
+[12:22:49] Dropped "dimakursk1982" from server<STEAM_0:1:129546962>
+[15:45:56] Client "imax.peas" connected.
+<Logging continued in "data/ulx_logs/07-30-24.txt">

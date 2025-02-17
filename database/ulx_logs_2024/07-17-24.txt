@@ -1,0 +1,58 @@
+<Logging continued from "data/ulx_logs/07-16-24.txt">
+[07:45:27] Client "Asuna's Knight" connected.
+[07:46:54] Client "Asuna's Knight" spawned in server <STEAM_0:0:506794397> (took 87 seconds).
+[07:48:30] (Console) изменил слоты у игрока Asuna's Knight на 30
+[07:49:30] Client "Titanovsky" connected.
+[07:49:44] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 14 seconds).
+[07:50:00] Titanovsky teleported to Asuna's Knight
+[07:50:14] Titanovsky: лагает пушо сервер не перезапускался 4 суток
+[07:50:23] Titanovsky: щас покажу рыбалку
+[07:50:29] Titanovsky: которую хочу внедрить в роли Профы Рыбалов
+[07:50:33] Titanovsky: и производных донатных от нее
+[07:51:11] Asuna's Knight: хм
+[07:51:18] Titanovsky: минутку
+[07:51:22] Titanovsky: я не помню названия предметов
+[07:51:23] Asuna's Knight: я нажимаю на удочку и оно мне что-то даёт
+[07:52:20] Titanovsky выдал bait extra игроку Themself (44)
+[07:52:26] Titanovsky set the hp for Themself to 100
+[07:53:35] Titanovsky: во
+[07:53:37] Asuna's Knight: аххахаха
+[07:53:46] Titanovsky: инвентарь на А4
+[07:53:47] Titanovsky: F4
+[07:53:51] Titanovsky: попробуй ты
+[07:54:38] Titanovsky: нужно чтобы был зеленым
+[07:54:40] Titanovsky: вытащи его из воды
+[07:55:10] Titanovsky: чо выпало?
+[07:55:25] Asuna's Knight: рыба монетка
+[07:55:43] Titanovsky: как тебе рыбалка?
+[07:55:48] Titanovsky: можно фармить айтемы
+[07:55:51] Titanovsky: для крафта
+[07:55:55] Titanovsky: + зарабатаывать
+[07:56:04] Asuna's Knight: Я бы сказал, что система усложнённая слишком для даркрп
+[07:56:12] Asuna's Knight: в отличии от выживашки, где она вписывается в концепт
+[08:01:11] Titanovsky<STEAM_0:1:95303327> spawned model models/hunter/blocks/cube025x025x025.mdl
+[08:01:15] Titanovsky<STEAM_0:1:95303327> spawned model models/hunter/blocks/cube025x150x025.mdl
+[08:01:19] Titanovsky<STEAM_0:1:95303327> spawned model models/hunter/blocks/cube025x025x025.mdl
+[08:01:59] Titanovsky<STEAM_0:1:95303327> spawned model models/hunter/blocks/cube075x075x075.mdl
+[08:05:24] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[08:12:44] Dropped "Asuna's Knight" from server<STEAM_0:0:506794397>
+[10:09:18] Client "DIOduck" connected.
+[10:09:46] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 28 seconds).
+[10:26:37] Client "Федя" connected.
+[10:27:36] Client "Федя" spawned in server <STEAM_0:0:761124039> (took 59 seconds).
+[10:28:18] Федя: привет
+[10:39:48] Федя: привет всем
+[10:40:07] Федя: да
+[10:40:19] Dropped "Федя" from server<STEAM_0:0:761124039>
+[10:48:04] Client "HDD5" connected.
+[11:00:28] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+
+
+
+[14:53:33] New map: gm_amb_remeselnik_island
+[15:07:00] Client "DIOduck" connected.
+[15:07:20] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 20 seconds).
+[15:16:46] Client "bezb37" connected.
+[15:24:38] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+[19:57:20] Client "Pil_Odin" connected.
+<Logging continued in "data/ulx_logs/07-18-24.txt">

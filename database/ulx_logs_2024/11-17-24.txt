@@ -1,0 +1,14 @@
+[05:05:25] New map: gm_amb_remeselnik_island
+[13:17:04] Client "baka down senpai" connected.
+[13:21:15] Client "S@ilor" connected.
+[13:21:51] Client "baka down senpai" spawned in server <STEAM_0:1:72420746> (took 287 seconds).
+[13:31:09] Dropped "baka down senpai" from server<STEAM_0:1:72420746>
+[13:31:45] Client "artem19_" connected.
+[15:33:23] Client "50 БЛАГОСЛОВЕНИЙ" connected.
+[15:36:55] Client "50 БЛАГОСЛОВЕНИЙ" spawned in server <STEAM_0:0:75006238> (took 212 seconds).
+[15:38:45] Dropped "50 БЛАГОСЛОВЕНИЙ" from server<STEAM_0:0:75006238>
+[16:19:46] Client "watch_//_me" connected.
+[16:24:49] Client "watch_//_me" spawned in server <STEAM_0:0:424640367> (took 303 seconds).
+[16:29:00] Dropped "watch_//_me" from server<STEAM_0:0:424640367>
+[17:50:39] Client "Arima" connected.
+[22:07:51] Client "Stere0" connected.

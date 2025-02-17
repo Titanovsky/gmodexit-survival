@@ -1,0 +1,24 @@
+[09:04:12] New map: gm_amb_remeselnik_island
+[09:07:56] Client "Titanovsky" connected.
+[09:09:13] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 77 seconds).
+[09:16:02] Server is shutting down/changing levels.
+
+
+
+[09:16:30] New map: gm_amb_remeselnik_island
+[09:17:40] Client "Titanovsky" connected.
+[09:17:51] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 11 seconds).
+[09:20:49] Titanovsky granted god mode upon Themself
+[10:34:15] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[12:04:34] Client "Узкий" connected.
+[13:25:07] Client "MacaI" connected.
+[13:27:22] Client "MacaI" spawned in server <STEAM_0:0:815020376> (took 135 seconds).
+[13:42:20] Dropped "MacaI" from server<STEAM_0:0:815020376>
+[21:10:33] Client "Spoof approve" connected.
+[21:28:29] Client "Spoof approve" spawned in server <STEAM_0:1:701225551> (took 1076 seconds).
+[21:36:45] Dropped "Spoof approve" from server<STEAM_0:1:701225551>
+[22:07:09] Client "vanko0985vanko" connected.
+[22:11:50] Client "vanko0985vanko" spawned in server <STEAM_0:1:644234279> (took 281 seconds).
+[22:14:45] Client "Воробей" connected.
+[22:14:50] Dropped "vanko0985vanko" from server<STEAM_0:1:644234279>
+[22:17:59] Client "Воробей" connected.

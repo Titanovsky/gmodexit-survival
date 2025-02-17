@@ -1,0 +1,10 @@
+[05:05:27] New map: gm_amb_remeselnik_island
+[07:37:34] Client "MHT" connected.
+[17:59:08] Client "UHH" connected.
+[19:01:23] Client "kirillaks" connected.
+[19:08:07] Client "kirillaks" spawned in server <STEAM_0:0:86479429> (took 404 seconds).
+[19:09:39] Dropped "kirillaks" from server<STEAM_0:0:86479429>
+[19:44:01] Client "MaxShd" connected.
+[19:54:21] Client "MaxShd" spawned in server <STEAM_0:1:897485199> (took 620 seconds).
+[20:35:16] Dropped "MaxShd" from server<STEAM_0:1:897485199>
+[20:35:51] Client "Meth_DB" connected.

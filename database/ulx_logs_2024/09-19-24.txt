@@ -1,0 +1,5 @@
+<Logging continued from "data/ulx_logs/09-18-24.txt">
+[06:03:23] Client "tratilus" connected.
+[06:06:05] Client "tratilus" spawned in server <STEAM_0:0:693847339> (took 162 seconds).
+[06:07:07] Dropped "tratilus" from server<STEAM_0:0:693847339>
+<Logging continued in "data/ulx_logs/09-20-24.txt">

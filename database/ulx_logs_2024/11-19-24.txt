@@ -1,0 +1,10 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[11:44:05] Client "ДИКИЙ УБЛЮДОК" connected.
+[15:46:26] Client "gammisbears300791" connected.
+[17:34:28] Client "GaGaRuYN" connected.
+[17:37:16] Client "GaGaRuYN" spawned in server <STEAM_0:0:515766030> (took 168 seconds).
+[17:55:26] Dropped "GaGaRuYN" from server<STEAM_0:0:515766030>
+[19:41:14] Client "realnoob" connected.
+[19:42:54] Client "realnoob" spawned in server <STEAM_0:0:887215347> (took 100 seconds).
+[19:45:10] Dropped "realnoob" from server<STEAM_0:0:887215347>
+[21:02:39] Client "lokiscat228" connected.

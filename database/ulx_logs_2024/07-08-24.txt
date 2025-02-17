@@ -1,0 +1,19 @@
+<Logging continued from "data/ulx_logs/07-07-24.txt">
+[09:50:22] Client "DIOduck" connected.
+[09:50:43] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 21 seconds).
+[10:41:48] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+[10:48:47] Client "человек конопля" connected.
+[10:52:55] Client "человек конопля" spawned in server <STEAM_0:0:869526128> (took 248 seconds).
+[10:54:11] Dropped "человек конопля" from server<STEAM_0:0:869526128>
+[11:18:20] Client "DIOduck" connected.
+[11:18:34] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 14 seconds).
+[11:54:21] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+[12:53:36] Client "seika" connected.
+[12:58:20] Client "seika" spawned in server <STEAM_0:1:550336001> (took 284 seconds).
+[13:05:05] Dropped "seika" from server<STEAM_0:1:550336001>
+[14:35:50] Client "Kaspersky" connected.
+[16:51:16] Client "zaharg767#FixTF2(ru)" connected.
+[20:19:58] Client "oops" connected.
+[20:22:03] Client "oops" spawned in server <STEAM_0:0:807433631> (took 125 seconds).
+[20:37:00] Dropped "oops" from server<STEAM_0:0:807433631>
+<Logging continued in "data/ulx_logs/07-09-24.txt">

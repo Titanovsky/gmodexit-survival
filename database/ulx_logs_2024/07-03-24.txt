@@ -1,0 +1,9 @@
+<Logging continued from "data/ulx_logs/07-02-24.txt">
+[06:20:26] Client "zefriXyy" connected.
+[06:24:22] Client "zefriXyy" spawned in server <STEAM_0:0:506193388> (took 236 seconds).
+[06:25:04] (TEAM) zefriXyy: kit starter
+[06:26:26] Dropped "zefriXyy" from server<STEAM_0:0:506193388>
+[09:44:21] Client "Kaspersky" connected.
+[09:44:52] Client "TomSize" connected.
+[18:08:10] Client "[1fps]kategolubeva2006" connected.
+<Logging continued in "data/ulx_logs/07-04-24.txt">

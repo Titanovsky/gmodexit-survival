@@ -1,0 +1,21 @@
+[05:05:29] New map: gm_amb_remeselnik_island
+[09:54:42] Client "igorsergx" connected.
+[09:57:54] Client "igorsergx" spawned in server <STEAM_0:1:790487052> (took 192 seconds).
+[09:58:42] Dropped "igorsergx" from server<STEAM_0:1:790487052>
+[13:31:53] Client "ZHE.НЯ" connected.
+[13:36:42] Client "ZHE.НЯ" spawned in server <STEAM_0:0:149669375> (took 289 seconds).
+[13:39:39] Dropped "ZHE.НЯ" from server<STEAM_0:0:149669375>
+[21:44:56] Client "maxbuchnyi" connected.
+[21:55:12] Client "чмоня" connected.
+[21:59:04] Client "maxbuchnyi" spawned in server <STEAM_0:1:913928124> (took 848 seconds).
+[22:05:17] Client "KrEnDeL" connected.
+[22:05:33] Client "KrEnDeL" connected.
+[22:09:07] maxbuchnyi: .гпннпгнпнгорп
+[22:10:35] maxbuchnyi: .\\
+[22:11:07] maxbuchnyi: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\4114
+[22:11:52] (TEAM) maxbuchnyi: хї
+[22:12:24] (TEAM) maxbuchnyi: \л
+[22:12:45] maxbuchnyi: \кпп
+[22:21:58] (TEAM) maxbuchnyi: \\
+[22:22:19] maxbuchnyi: \Л
+[22:23:14] Dropped "maxbuchnyi" from server<STEAM_0:1:913928124>

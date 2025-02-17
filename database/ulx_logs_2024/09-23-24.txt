@@ -1,0 +1,5 @@
+<Logging continued from "data/ulx_logs/09-22-24.txt">
+[06:44:52] Client "$Джарахов$" connected.
+[17:05:58] Client "❤️°m_entolka°❤" connected.
+[19:22:36] Client "waf" connected.
+<Logging continued in "data/ulx_logs/09-26-24.txt">

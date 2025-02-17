@@ -1,0 +1,17 @@
+<Logging continued from "data/ulx_logs/08-05-24.txt">
+[07:12:31] Client "ฅ^o_o^ฅ  С4acTьE/ZHE.НЯ" connected.
+[07:12:52] Client "ฅ^o_o^ฅ  С4acTьE/ZHE.НЯ" spawned in server <STEAM_0:0:149669375> (took 21 seconds).
+[07:27:11] Dropped "ฅ^o_o^ฅ  С4acTьE/ZHE.НЯ" from server<STEAM_0:0:149669375>
+[07:27:14] Client "Stick" connected.
+[13:45:29] Client "topikromik442" connected.
+[13:48:28] Client "topikromik442" spawned in server <STEAM_0:0:817543675> (took 179 seconds).
+[13:48:41] Client "Засеря" connected.
+[13:50:08] Dropped "topikromik442" from server<STEAM_0:0:817543675>
+[13:51:25] Client "Засеря" spawned in server <STEAM_0:1:567170872> (took 164 seconds).
+[13:57:40] Dropped "Засеря" from server<STEAM_0:1:567170872>
+[15:04:49] Client "Hellinberg" connected.
+[15:12:03] Client "Hellinberg" connected.
+[15:16:14] Client "Hellinberg" spawned in server <STEAM_0:0:27824887> (took 251 seconds).
+[15:18:33] Dropped "Hellinberg" from server<STEAM_0:0:27824887>
+[17:15:06] Client "nenahhov" connected.
+<Logging continued in "data/ulx_logs/08-07-24.txt">

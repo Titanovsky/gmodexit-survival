@@ -1,0 +1,15 @@
+<Logging continued from "data/ulx_logs/07-29-24.txt">
+[07:43:27] Client "Profilynx" connected.
+[07:43:58] Client "timofey.a.a2010" connected.
+[07:47:20] Client "timofey.a.a2010" spawned in server <STEAM_0:0:703621252> (took 202 seconds).
+[07:47:45] Client "Profilynx" spawned in server <STEAM_0:1:506619098> (took 258 seconds).
+[07:49:26] Dropped "Profilynx" from server<STEAM_0:1:506619098>
+[07:49:35] Dropped "timofey.a.a2010" from server<STEAM_0:0:703621252>
+[19:46:35] Client "ar_lr" connected.
+[19:48:46] Client "ar_lr" spawned in server <STEAM_0:0:837705961> (took 131 seconds).
+[20:03:26] Dropped "ar_lr" from server<STEAM_0:0:837705961>
+
+
+
+[21:53:48] New map: gm_amb_remeselnik_island
+<Logging continued in "data/ulx_logs/08-01-24.txt">

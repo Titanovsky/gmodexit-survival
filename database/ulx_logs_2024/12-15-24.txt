@@ -1,0 +1,5 @@
+[05:05:28] New map: gm_amb_remeselnik_island
+[13:30:59] Client "DEFOLD2XD" connected.
+[13:37:08] Client "DEFOLD2XD" spawned in server <STEAM_0:0:861823408> (took 369 seconds).
+[13:39:47] Dropped "DEFOLD2XD" from server<STEAM_0:0:861823408>
+[22:46:44] Client "beybik.gmod" connected.

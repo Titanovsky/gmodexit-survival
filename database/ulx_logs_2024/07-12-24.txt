@@ -1,0 +1,153 @@
+[00:57:04] New map: gm_amb_remeselnik_island
+[01:22:09] Client "Bot01" connected.
+[01:22:09] Client "Bot01" spawned in server <BOT> (took 1514 seconds).
+[01:36:37] Client "Федя" connected.
+[01:41:22] Client "Федя" spawned in server <STEAM_0:0:761124039> (took 285 seconds).
+[01:42:21] Федя: как микро включить
+[01:43:19] Dropped "Федя" from server<STEAM_0:0:761124039>
+[01:43:19] Dropped "Bot01" from server<BOT>
+[03:20:03] Client "Titanovsky" connected.
+[03:20:13] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 10 seconds).
+[03:21:14] Titanovsky granted god mode upon Themself
+[05:06:08] Client "Obeme" connected.
+[05:08:15] Client "Obeme" spawned in server <STEAM_0:1:530399397> (took 127 seconds).
+[05:15:53] (TEAM) Obeme: kit starter
+[05:16:50] Dropped "Obeme" from server<STEAM_0:1:530399397>
+[05:56:57] Client "Суета" connected.
+[05:59:44] Client "Суета" spawned in server <STEAM_0:0:500250668> (took 167 seconds).
+[06:01:15] Dropped "Суета" from server<STEAM_0:0:500250668>
+[07:31:26] Client "BlaBlaBla_999" connected.
+[08:11:34] Client "GodSon" connected.
+[08:14:27] Client "GodSon" spawned in server <STEAM_0:0:592259875> (took 173 seconds).
+[08:15:32] Dropped "GodSon" from server<STEAM_0:0:592259875>
+[08:31:51] Client "T1tan" connected.
+[08:34:34] Client "T1tan" spawned in server <STEAM_0:0:460356410> (took 163 seconds).
+[08:35:50] Dropped "T1tan" from server<STEAM_0:0:460356410>
+[08:36:49] Client "Flake" connected.
+[08:37:53] Client "Flake" spawned in server <STEAM_0:0:467071604> (took 64 seconds).
+[08:39:19] Client "adonra" connected.
+[08:39:35] Client "adonra" spawned in server <STEAM_0:1:42373184> (took 16 seconds).
+[08:40:48] (TEAM) adonra: Привет
+[08:40:49] Flake: ку
+[08:41:00] (TEAM) adonra: как выживать у меня ничего нуту
+[08:41:03] (TEAM) adonra: нету
+[08:41:18] Flake: вроде надо написать в чат /kit starter
+[08:41:22] (TEAM) adonra: ок
+[08:41:28] Flake: у тебя в чате написаться должно
+[08:42:20] (TEAM) adonra: Го вместе выживать?
+[08:42:30] Flake: я буквально на 5 минут зашел
+[08:42:36] (TEAM) adonra: понял
+[08:44:51] Dropped "adonra" from server<STEAM_0:1:42373184>
+[08:51:29] Flake: титановка, хуле спишь
+[08:55:12] Client "toropchin_2009" connected.
+[09:02:07] Client "aleksey.plex" connected.
+[09:04:30] Client "aleksey.plex" spawned in server <STEAM_0:0:635645496> (took 143 seconds).
+[09:04:58] Client "Cybercasper" connected.
+[09:05:57] Client "kij0775" connected.
+[09:09:49] aleksey.plex: боже мне жопа
+[09:10:09] Client "kij0775" spawned in server <STEAM_0:0:882505607> (took 252 seconds).
+[09:10:30] Client "toropchin_2009" spawned in server <STEAM_0:0:848211035> (took 918 seconds).
+[09:11:10] Client "Cybercasper" spawned in server <STEAM_0:0:125001684> (took 372 seconds).
+[09:13:06] Flake to Titanovsky: титановка
+[09:13:13] Dropped "Cybercasper" from server<STEAM_0:0:125001684>
+[09:13:17] Flake to Titanovsky: очнись
+[09:13:30] Flake to Titanovsky: тут чуваки заходят
+[09:13:53] Dropped "toropchin_2009" from server<STEAM_0:0:848211035>
+[09:13:55] Flake killed aleksey.plex using surv_pickaxe_copper
+[09:17:35] Flake: реал
+[09:17:35] Titanovsky teleported to Flake
+[09:17:42] Titanovsky: я гулять братан
+[09:17:45] Titanovsky: погода ахуенная
+[09:17:45] Flake: оки
+[09:17:46] Titanovsky: скоро приду
+[09:17:49] Titanovsky: ты за старшего
+[09:17:54] Flake: принял
+[09:18:04] Flake: уфйопты
+[09:18:14] Dropped "kij0775" from server<STEAM_0:0:882505607>
+[09:18:55] Dropped "aleksey.plex" from server<STEAM_0:0:635645496>
+[09:28:36] Client "stingerxxx39" connected.
+[09:32:26] Client "stingerxxx39" spawned in server <STEAM_0:1:223179746> (took 230 seconds).
+[09:36:24] Client "kavkin" connected.
+[09:36:57] Dropped "stingerxxx39" from server<STEAM_0:1:223179746>
+[09:39:35] Client "kavkin" spawned in server <STEAM_0:0:852942718> (took 191 seconds).
+[09:40:43] Dropped "kavkin" from server<STEAM_0:0:852942718>
+[09:42:00] Client "Z1nNE" connected.
+[09:44:36] Client "Graf_Palkin" connected.
+[09:47:06] Client "Z1nNE" spawned in server <STEAM_0:0:46779297> (took 306 seconds).
+[09:47:43] Client "Graf_Palkin" spawned in server <STEAM_0:0:57671123> (took 187 seconds).
+[09:48:04] Dropped "Graf_Palkin" from server<STEAM_0:0:57671123>
+[09:49:08] Dropped "Z1nNE" from server<STEAM_0:0:46779297>
+[10:03:33] Client "super juk" connected.
+[10:07:06] Client "super juk" spawned in server <STEAM_0:0:37478841> (took 213 seconds).
+[10:12:22] Client "CALEK" connected.
+[10:26:43] Dropped "super juk" from server<STEAM_0:0:37478841>
+[10:34:08] Dropped "Flake" from server<STEAM_0:0:467071604>
+[11:01:42] Client "sergey.nikitin00" connected.
+[11:25:18] Client "Стасик Ананасик" connected.
+[12:22:02] Client "Tak_t0#USR" connected.
+[12:31:00] Client "Tak_t0#USR" spawned in server <STEAM_0:0:795350394> (took 538 seconds).
+[12:38:43] Dropped "Tak_t0#USR" from server<STEAM_0:0:795350394>
+[12:41:16] Client "Tak_t0#USR" connected.
+[12:41:33] Client "Tak_t0#USR" spawned in server <STEAM_0:0:795350394> (took 17 seconds).
+[12:41:56] Dropped "Tak_t0#USR" from server<STEAM_0:0:795350394>
+[12:42:51] Client "Tak_t0#USR" connected.
+[12:43:11] Client "Tak_t0#USR" spawned in server <STEAM_0:0:795350394> (took 20 seconds).
+[12:55:49] Tak_t0#USR: *inv*
+[13:00:50] Client "DExavin" connected.
+[13:02:37] Client "DExavin" spawned in server <STEAM_0:0:458675434> (took 107 seconds).
+[13:03:45] DExavin suicided!
+[13:07:39] Dropped "DExavin" from server<STEAM_0:0:458675434>
+[13:08:40] Client "DExavin" connected.
+[13:08:59] Client "DExavin" spawned in server <STEAM_0:0:458675434> (took 19 seconds).
+[13:09:29] Dropped "DExavin" from server<STEAM_0:0:458675434>
+[13:10:43] Client "DExavin" connected.
+[13:11:00] Client "DExavin" spawned in server <STEAM_0:0:458675434> (took 17 seconds).
+[13:11:33] Dropped "DExavin" from server<STEAM_0:0:458675434>
+[13:13:36] Client "DIOduck" connected.
+[13:13:37] Dropped "Tak_t0#USR" from server<STEAM_0:0:795350394>
+[13:13:59] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 23 seconds).
+[13:15:22] Client "DExavin" connected.
+[13:15:36] Client "Tak_t0#USR" connected.
+[13:15:38] Client "DExavin" spawned in server <STEAM_0:0:458675434> (took 16 seconds).
+[13:15:51] Client "Tak_t0#USR" spawned in server <STEAM_0:0:795350394> (took 15 seconds).
+[13:16:51] DExavin killed Tak_t0#USR using surv_pickaxe_stone
+[13:17:26] Tak_t0#USR suicided!
+[13:17:46] Dropped "Tak_t0#USR" from server<STEAM_0:0:795350394>
+[13:17:46] Client "Tak_t0#USR" connected.
+[13:18:02] Client "Tak_t0#USR" spawned in server <STEAM_0:0:795350394> (took 16 seconds).
+[13:18:25] Titanovsky teleported to DIOduck
+[13:18:33] DIOduck: да?
+[13:18:41] DIOduck: конешн
+[13:18:53] DExavin killed Tak_t0#USR using surv_pickaxe_stone
+[13:19:34] DIOduck killed Tak_t0#USR using tfa_rustalpha_p250
+[13:20:23] DExavin was killed by npc_antlion
+[13:21:09] DExavin killed Tak_t0#USR using tfa_rustalpha_stone_hatchet
+[13:21:30] Dropped "Tak_t0#USR" from server<STEAM_0:0:795350394>
+[13:21:52] Dropped "DExavin" from server<STEAM_0:0:458675434>
+[13:22:23] Client "maks 1723" connected.
+[13:25:49] Client "maks 1723" spawned in server <STEAM_0:1:54449062> (took 206 seconds).
+[13:35:09] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[13:36:34] Client "DExavin" connected.
+[13:36:49] Client "DExavin" spawned in server <STEAM_0:0:458675434> (took 15 seconds).
+[13:38:17] DExavin: микро сдох
+[13:46:18] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+[13:46:22] maks 1723 was killed by npc_antlion
+[13:51:27] Dropped "DExavin" from server<STEAM_0:0:458675434>
+[13:58:49] maks 1723 was killed by npc_antlion
+[14:10:40] maks 1723 was killed by npc_antlion
+[14:11:13] Dropped "maks 1723" from server<STEAM_0:1:54449062>
+[15:25:59] Client "azuev1934" connected.
+[15:28:46] Client "azuev1934" spawned in server <STEAM_0:0:753571604> (took 167 seconds).
+[15:29:54] Client "охрана" connected.
+[15:30:57] Dropped "azuev1934" from server<STEAM_0:0:753571604>
+[15:43:56] Client "🌟😺 CatCaramelka 😺🌟" connected.
+[15:51:04] Client "CALEK" connected.
+[15:53:41] Client "Белый" connected.
+[15:54:28] Client "CALEK" spawned in server <STEAM_0:1:815051842> (took 204 seconds).
+[16:10:31] Dropped "CALEK" from server<STEAM_0:1:815051842>
+[16:14:21] Client "WaraksA" connected.
+[16:23:25] Client "VvV" connected.
+[17:05:20] Client "Bot02" connected.
+[17:05:20] Client "Bot02" spawned in server <BOT> (took 58105 seconds).
+[18:46:20] (Console) banned steamid STEAM_0:0:150035229 permanently
+<Logging continued in "data/ulx_logs/07-13-24.txt">

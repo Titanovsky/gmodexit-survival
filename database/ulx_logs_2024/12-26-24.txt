@@ -1,0 +1,3 @@
+[05:05:29] New map: gm_amb_remeselnik_island
+[16:28:57] Client "огузок" connected.
+[22:22:58] Client "serov35m" connected.

@@ -1,0 +1,77 @@
+<Logging continued from "data/ulx_logs/07-06-24.txt">
+[03:13:54] Client "dont you see as before,dont you?" connected.
+[03:52:44] Client "theYarila" connected.
+[03:55:56] Client "theYarila" spawned in server <STEAM_0:0:582205515> (took 192 seconds).
+[03:57:15] theYarila: /kil level
+[03:59:18] Dropped "theYarila" from server<STEAM_0:0:582205515>
+[04:10:35] Client "INSANEWAVE" connected.
+[04:14:32] Client "INSANEWAVE" spawned in server <STEAM_0:1:176582736> (took 237 seconds).
+[04:16:18] Client "WATRAS76" connected.
+[04:16:59] Dropped "INSANEWAVE" from server<STEAM_0:1:176582736>
+[04:33:04] Client "WATRAS76" connected.
+[04:34:41] Client "WATRAS76" spawned in server <STEAM_0:1:657399581> (took 97 seconds).
+[04:39:29] Dropped "WATRAS76" from server<STEAM_0:1:657399581>
+[05:28:27] Client "valerymagomedov" connected.
+[05:36:05] Client "TANKER33" connected.
+[05:40:20] Client "TANKER33" spawned in server <STEAM_0:1:754465578> (took 255 seconds).
+[05:42:27] Dropped "TANKER33" from server<STEAM_0:1:754465578>
+[05:59:49] Client "Maks" connected.
+[06:01:49] Client "блошка" connected.
+[06:03:30] Client "Maks" spawned in server <STEAM_0:0:434829100> (took 221 seconds).
+[06:15:24] Client "BTW [FarmRust]" connected.
+[06:18:17] Client "BTW [FarmRust]" spawned in server <STEAM_0:1:595750043> (took 173 seconds).
+[06:24:29] Dropped "BTW [FarmRust]" from server<STEAM_0:1:595750043>
+[06:46:24] Client "Elephant" connected.
+[06:48:52] Client "Elephant" spawned in server <STEAM_0:1:53812892> (took 148 seconds).
+[06:49:36] Dropped "Maks" from server<STEAM_0:0:434829100>
+[06:54:29] Dropped "Elephant" from server<STEAM_0:1:53812892>
+[07:04:33] Client "NFS5 Porsche Unleashed" connected.
+[08:35:28] Client "dlevashko" connected.
+[08:39:15] Client "dlevashko" spawned in server <STEAM_0:0:857563720> (took 227 seconds).
+[08:43:24] dlevashko: /inf
+[08:46:33] dlevashko suicided!
+[08:47:23] Dropped "dlevashko" from server<STEAM_0:0:857563720>
+[10:30:51] Client "murasaki雨" connected.
+[10:35:53] Client "Человек ПАУК" connected.
+[10:38:41] Client "Человек ПАУК" spawned in server <STEAM_0:0:754544611> (took 168 seconds).
+[10:40:16] Dropped "Человек ПАУК" from server<STEAM_0:0:754544611>
+[10:45:50] Client "MrGeimer" connected.
+[10:54:32] Client "MrGeimer" spawned in server <STEAM_0:0:773410272> (took 522 seconds).
+[11:14:09] Dropped "MrGeimer" from server<STEAM_0:0:773410272>
+[11:18:53] Client "артмен О-О" connected.
+[11:21:38] Client "артмен О-О" spawned in server <STEAM_0:1:633189836> (took 165 seconds).
+[11:21:58] Client "9msh1k" connected.
+[11:23:19] Dropped "артмен О-О" from server<STEAM_0:1:633189836>
+[11:24:23] Client "9msh1k" spawned in server <STEAM_0:0:110960683> (took 145 seconds).
+[11:26:16] Dropped "9msh1k" from server<STEAM_0:0:110960683>
+[11:28:09] Client "руский спецназ" connected.
+[11:31:22] Client "руский спецназ" spawned in server <STEAM_0:1:93822535> (took 193 seconds).
+[11:34:22] Dropped "руский спецназ" from server<STEAM_0:1:93822535>
+[11:36:18] Client "гнида" connected.
+[11:41:54] Client "гнида" spawned in server <STEAM_0:1:234916045> (took 336 seconds).
+[11:43:21] гнида: ало
+[11:43:25] гнида: кто на сервере
+[11:44:19] Client "Matvey_Mel'nikov" connected.
+[11:45:12] гнида: ало
+[11:45:52] Dropped "гнида" from server<STEAM_0:1:234916045>
+[11:51:30] Client "Vergil" connected.
+[11:54:31] Client "Vergil" spawned in server <STEAM_0:0:521835616> (took 181 seconds).
+[11:54:48] Client "Schlechterregent" connected.
+[11:56:14] Client "Matvey_Mel'nikov" connected.
+[11:56:24] Titanovsky killed Vergil using modulus_hoverboard
+[11:57:39] Vergil: Привет!
+[11:58:37] Client "Schlechterregent" spawned in server <STEAM_0:1:219468558> (took 229 seconds).
+[11:58:44] Dropped "Vergil" from server<STEAM_0:0:521835616>
+[11:59:28] Dropped "Schlechterregent" from server<STEAM_0:1:219468558>
+[12:09:56] Client "Black Mesa" connected.
+[12:10:56] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[16:37:20] Client "DIOduck" connected.
+[16:37:43] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 23 seconds).
+[17:00:47] Client "ГойдаZлав_СтендOV" connected.
+[17:05:20] Client "ГойдаZлав_СтендOV" spawned in server <STEAM_0:1:540222514> (took 273 seconds).
+[17:10:16] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+[17:10:50] Dropped "ГойдаZлав_СтендOV" from server<STEAM_0:1:540222514>
+[19:17:44] Client "DIOduck" connected.
+[19:18:05] Client "DIOduck" spawned in server <STEAM_0:1:439665751> (took 21 seconds).
+[19:51:19] Dropped "DIOduck" from server<STEAM_0:1:439665751>
+<Logging continued in "data/ulx_logs/07-08-24.txt">

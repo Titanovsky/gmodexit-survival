@@ -1,0 +1,2 @@
+[08:44:01] New map: gm_amb_remeselnik_island
+<Logging continued in "data/ulx_logs/08-05-24.txt">

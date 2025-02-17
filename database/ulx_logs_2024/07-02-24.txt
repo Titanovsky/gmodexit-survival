@@ -1,0 +1,59 @@
+<Logging continued from "data/ulx_logs/07-01-24.txt">
+[10:19:50] Client "gudkov108" connected.
+[10:20:16] Client "МАКСИМ" connected.
+[10:22:47] Client "МАКСИМ" spawned in server <STEAM_0:0:873229120> (took 151 seconds).
+[10:22:53] Client "gudkov108" spawned in server <STEAM_0:0:102687780> (took 183 seconds).
+[10:24:15] Dropped "gudkov108" from server<STEAM_0:0:102687780>
+[10:25:04] Dropped "МАКСИМ" from server<STEAM_0:0:873229120>
+
+
+
+[12:53:09] New map: gm_amb_remeselnik_island
+[14:21:20] Client "Titanovsky" connected.
+[14:22:21] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 61 seconds).
+[14:25:41] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[14:25:42] Client "Titanovsky" connected.
+[14:26:01] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 19 seconds).
+[14:29:49] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[14:39:40] Client "ViRtZZZ" connected.
+[14:40:24] Client "ViRtZZZ" spawned in server <STEAM_0:1:792360944> (took 44 seconds).
+[14:46:32] Client "Канеки" connected.
+[14:57:37] ViRtZZZ was killed by npc_antlion
+[15:23:29] Client "Mr_ludik" connected.
+[15:27:00] Client "Mr_ludik" spawned in server <STEAM_0:0:587405823> (took 211 seconds).
+[15:27:22] Mr_ludik: виризт приват
+[15:33:15] Dropped "Mr_ludik" from server<STEAM_0:0:587405823>
+[15:33:37] ViRtZZZ suicided!
+[15:33:56] ViRtZZZ suicided!
+[15:35:19] Dropped "ViRtZZZ" from server<STEAM_0:1:792360944>
+[15:35:25] Client "ViRtZZZ" connected.
+[15:35:55] Client "ViRtZZZ" spawned in server <STEAM_0:1:792360944> (took 30 seconds).
+[15:44:58] Client "tapok_pon" connected.
+[16:04:37] Dropped "ViRtZZZ" from server<STEAM_0:1:792360944>
+[16:07:13] Client "Zeranix" connected.
+[16:09:31] Client "stl5" connected.
+[16:45:02] Client "bogetvorenie" connected.
+[16:48:25] Client "bogetvorenie" spawned in server <STEAM_0:1:722607300> (took 203 seconds).
+[16:50:05] Dropped "bogetvorenie" from server<STEAM_0:1:722607300>
+[17:09:45] Client "Xx-Pavel-xX" connected.
+[18:09:01] Client "sonata" connected.
+[18:10:48] Client "sonata" spawned in server <STEAM_0:1:158737111> (took 107 seconds).
+[18:34:51] sonata was killed by modulus_hoverboard
+[18:42:22] Client "МАКСИМ" connected.
+[19:17:05] sonata was killed by modulus_hoverboard
+[19:55:00] sonata was killed by modulus_hoverboard
+[20:23:38] sonata was killed by modulus_hoverboard
+[20:43:00] Client "gosvidos" connected.
+[21:04:55] Client "новый бохххххх" connected.
+[21:17:26] sonata was killed by npc_antlion
+[22:00:06] Dropped "sonata" from server<STEAM_0:1:158737111>
+[22:23:31] Client "Flake" connected.
+[22:27:42] Client "Flake" spawned in server <STEAM_0:0:467071604> (took 251 seconds).
+[22:50:41] Flake was killed by npc_antlion
+[22:53:27] Flake was killed by npc_antlion
+[23:05:34] Flake: /pvp
+[23:05:36] Flake: /build
+[23:05:49] Flake: тогда какого хера я с лука антилоп захуячить не могу
+[23:06:17] Flake: всадил около 10 стрел, если не 20
+[23:13:29] Dropped "Flake" from server<STEAM_0:0:467071604>
+<Logging continued in "data/ulx_logs/07-03-24.txt">

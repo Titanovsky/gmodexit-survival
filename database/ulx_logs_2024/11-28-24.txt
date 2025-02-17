@@ -1,0 +1,2 @@
+[05:05:26] New map: gm_amb_remeselnik_island
+[23:37:21] Client "Липтон" connected.

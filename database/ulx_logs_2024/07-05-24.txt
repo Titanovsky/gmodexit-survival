@@ -1,0 +1,50 @@
+<Logging continued from "data/ulx_logs/07-04-24.txt">
+[02:00:24] Client "Titanovsky" connected.
+[02:01:12] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 48 seconds).
+[02:01:37] Titanovsky granted god mode upon Themself
+[05:08:52] Client "VANCOP" connected.
+[05:10:20] Client "VANCOP" spawned in server <STEAM_0:1:42488688> (took 88 seconds).
+[05:11:28] Dropped "VANCOP" from server<STEAM_0:1:42488688>
+[05:56:06] Client "HZDR" connected.
+[06:14:10] Client "Nikoli" connected.
+[06:17:16] Client "Nikoli" spawned in server <STEAM_0:1:787026096> (took 186 seconds).
+[06:31:30] Dropped "Nikoli" from server<STEAM_0:1:787026096>
+[06:31:37] Client "Nikoli" connected.
+[06:31:53] Client "Nikoli" spawned in server <STEAM_0:1:787026096> (took 16 seconds).
+[06:33:10] Nikoli suicided!
+[06:34:01] Dropped "Nikoli" from server<STEAM_0:1:787026096>
+[07:17:25] Client "ki$hLAK" connected.
+[07:19:29] Client "ki$hLAK" connected.
+[07:39:39] Client "Багдаша Валдбериc" connected.
+[07:44:22] Client "Багдаша Валдбериc" spawned in server <STEAM_0:0:541513408> (took 283 seconds).
+[07:48:09] Client "Pahammer1frends" connected.
+[07:48:35] Dropped "Багдаша Валдбериc" from server<STEAM_0:0:541513408>
+[07:52:50] Client "Pahammer1frends" spawned in server <STEAM_0:1:882013617> (took 281 seconds).
+[07:55:08] Dropped "Pahammer1frends" from server<STEAM_0:1:882013617>
+[09:00:17] Client "hunterrayg" connected.
+[09:00:53] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[09:05:09] Client "hunterrayg" spawned in server <STEAM_0:1:829608843> (took 292 seconds).
+[09:06:08] Client "《♧ARTEM♧》" connected.
+[09:06:50] Dropped "hunterrayg" from server<STEAM_0:1:829608843>
+[14:47:33] Client "Titanovsky" connected.
+[16:25:30] Client "pakpate2013" connected.
+[16:32:23] Client "pakpate2013" spawned in server <STEAM_0:0:849796388> (took 413 seconds).
+[16:34:27] Dropped "pakpate2013" from server<STEAM_0:0:849796388>
+
+
+
+[22:58:27] New map: gm_amb_remeselnik_island
+[23:04:29] Client "Bot01" connected.
+[23:04:29] Client "Bot01" spawned in server <BOT> (took 371 seconds).
+[23:23:02] Client "Titanovsky" connected.
+[23:24:11] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 69 seconds).
+[23:27:45] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+[23:27:45] Dropped "Bot01" from server<BOT>
+
+
+
+[23:28:48] New map: gm_amb_remeselnik_island
+[23:30:28] Client "Titanovsky" connected.
+[23:30:45] Client "Titanovsky" spawned in server <STEAM_0:1:95303327> (took 17 seconds).
+[23:46:15] Dropped "Titanovsky" from server<STEAM_0:1:95303327>
+<Logging continued in "data/ulx_logs/07-06-24.txt">

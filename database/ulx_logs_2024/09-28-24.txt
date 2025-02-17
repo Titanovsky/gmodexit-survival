@@ -1,0 +1,10 @@
+<Logging continued from "data/ulx_logs/09-27-24.txt">
+[11:53:02] Client "Гдз по Тхэквондо" connected.
+[11:55:28] Client "Гдз по Тхэквондо" spawned in server <STEAM_0:1:445953798> (took 146 seconds).
+[11:58:32] Dropped "Гдз по Тхэквондо" from server<STEAM_0:1:445953798>
+[15:49:06] Client "Smoki" connected.
+[17:54:34] Client "ОбменЛайками2кПо" connected.
+[22:13:41] Client "P0N41TO" connected.
+[22:16:53] Client "P0N41TO" spawned in server <STEAM_0:1:78209286> (took 192 seconds).
+[22:18:22] Dropped "P0N41TO" from server<STEAM_0:1:78209286>
+<Logging continued in "data/ulx_logs/09-30-24.txt">
