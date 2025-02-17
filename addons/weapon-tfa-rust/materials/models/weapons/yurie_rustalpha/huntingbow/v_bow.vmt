@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/weapons/yurie_rustalpha/huntingbow/v_bow"
+	$bumpmap		"models/weapons/yurie_rustalpha/huntingbow/v_bow_normal"
+	$phongexponenttexture	"models/weapons/yurie_rustalpha/huntingbow/v_bow_gloss"
+
+	$color2 "[0.7279412 0.7279412 0.7279412]"
+
+	$phong 1
+	$phongboost 0.8841471
+	$phongfresnelranges "[1 1 1]"
+	$phongalbedotint 1
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.3235294 0.3235294 0.3235294]"
+	$normalmapalphaenvmapmask 1
+}

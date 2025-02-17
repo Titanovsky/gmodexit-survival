@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$translucent" 1
+	"$basetexture" "metal/metalrail009a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown"
+	"%compilepassbullets" 1
+}

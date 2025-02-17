@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_everything/BabyBottle_trans"
+	"$model" "1"
+	"$translucent" "1"
+}

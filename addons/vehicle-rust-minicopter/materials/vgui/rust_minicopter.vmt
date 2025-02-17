@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/rust_minicopter"
+	"$translucent" 1
+}

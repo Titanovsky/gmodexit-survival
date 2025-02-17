@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	 "models\unconid\butterfly\butterfly_body"
+	$bumpmap	 "models\unconid\butterfly\butterfly_body_normal"
+
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" ".2"	
+	"$phongfresnelranges"	"[.25 .5 2]"
+	
+	
+	
+}
+

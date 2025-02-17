@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/rd_grass01"
+	"$baseTexture2" "nature/1_asphalt1"
+	"$blendmodulatetexture" "nature/blendroad01"
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "concrete"
+	"%detailtype" "r_smallgrass1"
+	"%keywords" "rnl"
+}

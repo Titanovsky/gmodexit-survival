@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/tfa_rustalpha/icons/pipeshotgun_icon"
+	$basetexturetransform "center .5 .5 scale 2 1 rotate 0 translate 0 0"
+	$translucent "1"
+	$nocull "1"
+	$ignorez "1"
+	$vertexcolor "1"
+	$vertexalpha "1"
+}

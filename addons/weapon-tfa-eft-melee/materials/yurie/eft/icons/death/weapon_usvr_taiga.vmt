@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "yurie/eft/icons/death/weapon_usvr_taiga"
+	"$vertexcolor"	"1"
+	"$vertexalpha"	"1"
+	"$translucent"	"1"
+}

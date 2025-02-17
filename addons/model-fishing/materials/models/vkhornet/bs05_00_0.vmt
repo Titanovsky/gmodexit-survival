@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/vkhornet/BS05_00_0"
+	"$bumpmap" "models/vkhornet/BS05_00_0_N"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "BS05_00_0_S"
+	"$alphatest" "1"
+}

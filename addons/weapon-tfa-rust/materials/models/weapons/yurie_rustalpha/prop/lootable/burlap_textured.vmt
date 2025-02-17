@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/weapons/yurie_rustalpha/prop/lootable/burlap_textured"
+	$bumpmap		"models/weapons/yurie_rustalpha/prop/lootable/burlap_textured_nrm"
+
+	$phong 1
+	$phongboost	1
+	$phongexponent	33
+	$phongfresnelranges	"[.125 .25 1]"
+}

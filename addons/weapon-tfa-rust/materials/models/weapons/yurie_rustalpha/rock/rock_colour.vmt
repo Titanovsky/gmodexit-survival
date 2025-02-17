@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/weapons/yurie_rustalpha/rock/rock_colour"
+	$bumpmap		"models/weapons/yurie_rustalpha/rock/rock_normals"
+	$phongexponenttexture	"models/weapons/yurie_rustalpha/rock/rock_gloss"
+
+	$color2 "[0.588 0.588 0.588]"
+
+	$phong 1
+	$phongboost	1.259457
+	$phongfresnelranges	"[1 1 1]"
+	$phongalbedotint 1
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.07871971 0.08991169 0.1029412]"
+	$normalmapalphaenvmapmask 1
+}

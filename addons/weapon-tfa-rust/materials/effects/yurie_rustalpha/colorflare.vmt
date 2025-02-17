@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/yurie_rustalpha/colorflare"
+	"$additive" "1"
+	"$vertexcolor" 1
+}

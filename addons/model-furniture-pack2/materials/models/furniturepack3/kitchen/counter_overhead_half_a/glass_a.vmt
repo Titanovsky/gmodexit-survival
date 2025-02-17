@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "furniture_textures/glass_a"
+	"$translucent" 1
+}

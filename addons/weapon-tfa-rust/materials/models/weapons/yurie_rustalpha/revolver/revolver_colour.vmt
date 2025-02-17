@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/weapons/yurie_rustalpha/revolver/revolver_colour_temporarybulleteditforhelk"
+	$bumpmap		"models/weapons/yurie_rustalpha/revolver/revolver_normals"
+	$phongexponenttexture	"models/weapons/yurie_rustalpha/revolver/revolver_gloss"
+
+	$color2 "[0.7352941 0.7352941 0.7352941]"
+
+	$phong 1
+	$phongboost	1.902584
+	$phongfresnelranges	"[1 1 1]"
+	$phongalbedotint 1
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.8382353 0.8382353 0.8382353]"
+	$normalmapalphaenvmapmask 1
+}

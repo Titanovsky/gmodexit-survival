@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	$basetexture	"ambition/survival/weapons/surv_axe_gold/v_axe"
+	$bumpmap		"models/weapons/yurie_rustalpha/hatchet/v_axe_normal"
+	$phongexponenttexture	"models/weapons/yurie_rustalpha/hatchet/v_axe_gloss"
+
+	$phong 1
+	$phongboost 0.5688888
+	$phongfresnelranges "[1 1 1]"
+	$phongalbedotint 1
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.6920249 0.7370223 0.8134328]"
+	$normalmapalphaenvmapmask 1
+}

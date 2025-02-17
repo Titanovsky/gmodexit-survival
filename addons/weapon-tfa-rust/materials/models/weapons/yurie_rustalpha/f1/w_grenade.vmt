@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/weapons/yurie_rustalpha/f1/v_grenade"
+	$bumpmap		"models/weapons/yurie_rustalpha/f1/v_grenade_normal"
+
+	$color2	"[.774115 .746269 .746269]"
+
+	$phong 1
+	$phongboost	1
+	$phongexponent	33
+	$phongfresnelranges	"[.575 .55 1]"
+}

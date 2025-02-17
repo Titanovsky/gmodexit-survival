@@ -1,0 +1,1 @@
+~/steamcmd/serv-surv/srcds_run -game garrysmod -port 27015 +map gm_amb_remeselnik_island +maxplayers 64 +gamemode sandbox +sv_setsteamaccount none

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "building_template/building_trainstation_template001e"
+	"$surfaceprop" "glass"
+	"$selfillum" 1	"$UnlitGeneric" 1
+}

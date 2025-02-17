@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	$basetexture	"yurie/eft/weapons/fulcrum/fulcrum"
+
+	$phong	"1"
+	$phongboost	"1"
+	$phongexponent	"33"
+	$phongfresnelranges	"[.55 .6 1]"
+	$phongtint	"[0.5073529 0.5073529 0.5073529]"
+	$basemapalphaphongmask	"1"
+
+	$envmap	"env_cubemap"
+	$envmaptint	"[0.3917 0.3917 0.3917]"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_everything/PizzaSlice"
+	"$model" "1"
+}

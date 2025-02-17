@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "yurie/eft/icons/hud/weapon_cultist_damask"
+	$translucent "1"
+	$nocull "1"
+	$ignorez "1"
+	$vertexcolor "1"
+	$vertexalpha "1"
+}

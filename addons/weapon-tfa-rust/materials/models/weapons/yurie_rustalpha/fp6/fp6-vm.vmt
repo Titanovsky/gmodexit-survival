@@ -1,0 +1,15 @@
+"VertexLitGeneric" // Taken from Tactical Intervention
+{
+	$basetexture "models/weapons/yurie_rustalpha/fp6/fp6"
+	$bumpmap "models/weapons/yurie_rustalpha/fp6/fp6_normal"
+
+	$phong 1
+	$phongboost 0.6
+	$phongfresnelranges "[.2 9 35]"
+	$phongexponent 35
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmapsaturation 0.25
+	$envmaptint "[0.03 0.03 0.03]"
+}

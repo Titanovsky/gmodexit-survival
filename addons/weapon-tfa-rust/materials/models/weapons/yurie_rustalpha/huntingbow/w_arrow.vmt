@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/weapons/yurie_rustalpha/huntingbow/w_arrow"
+
+	$phong	1
+	$phongboost	1
+	$phongexponent	33
+	$phongfresnelranges	"[.01 .1 1]"
+	$basemapalphaphongmask	1
+}
